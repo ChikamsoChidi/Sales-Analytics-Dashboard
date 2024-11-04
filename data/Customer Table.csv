@@ -1,0 +1,2824 @@
+ORDERNUMBER,PRODUCTCODE,CUSTOMERNAME,CITY,COUNTRY,TERRITORY,DEALSIZE,ORDERLINENUMBER
+10107,S10_1678,Land of Toys Inc.,NYC,USA,NA,Small,2
+10121,S10_1678,Reims Collectables,Reims,France,EMEA,Small,5
+10134,S10_1678,Lyon Souveniers,Paris,France,EMEA,Medium,2
+10145,S10_1678,Toys4GrownUps.com,Pasadena,USA,NA,Medium,6
+10159,S10_1678,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,14
+10168,S10_1678,Technics Stores Inc.,Burlingame,USA,NA,Medium,1
+10180,S10_1678,Daedalus Designs Imports,Lille,France,EMEA,Small,9
+10188,S10_1678,Herkku Gifts,Bergen,Norway,EMEA,Medium,1
+10201,S10_1678,Mini Wheels Co.,San Francisco,USA,NA,Small,2
+10211,S10_1678,Auto Canal Petit,Paris,France,EMEA,Medium,14
+10223,S10_1678,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,1
+10237,S10_1678,Vitachrome Inc.,NYC,USA,NA,Small,7
+10251,S10_1678,Tekni Collectables Inc.,Newark,USA,NA,Medium,2
+10263,S10_1678,Gift Depot Inc.,Bridgewater,USA,NA,Medium,2
+10275,S10_1678,La Rochelle Gifts,Nantes,France,EMEA,Medium,1
+10285,S10_1678,Marta's Replicas Co.,Cambridge,USA,NA,Medium,6
+10299,S10_1678,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,9
+10309,S10_1678,Baane Mini Imports,Stavern,Norway,EMEA,Medium,5
+10318,S10_1678,Diecast Classics Inc.,Allentown,USA,NA,Medium,1
+10329,S10_1678,Land of Toys Inc.,NYC,USA,NA,Medium,1
+10341,S10_1678,Salzburg Collectables,Salzburg,Austria,EMEA,Large,9
+10361,S10_1678,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,13
+10375,S10_1678,La Rochelle Gifts,Nantes,France,EMEA,Small,12
+10388,S10_1678,FunGiftIdeas.com,New Bedford,USA,NA,Medium,4
+10403,S10_1678,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,7
+10417,S10_1678,Euro Shopping Channel,Madrid,Spain,EMEA,Large,2
+10103,S10_1949,Baane Mini Imports,Stavern,Norway,EMEA,Medium,11
+10112,S10_1949,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Large,1
+10126,S10_1949,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Large,11
+10140,S10_1949,Technics Stores Inc.,Burlingame,USA,NA,Large,11
+10150,S10_1949,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Large,8
+10163,S10_1949,Classic Legends Inc.,NYC,USA,NA,Medium,1
+10174,S10_1949,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Large,4
+10183,S10_1949,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Medium,8
+10194,S10_1949,"Saveley & Henriot, Co.",Lyon,France,EMEA,Large,11
+10206,S10_1949,Canadian Gift Exchange Network,Vancouver,Canada,NA,Large,6
+10215,S10_1949,West Coast Collectables Co.,Burbank,USA,NA,Medium,3
+10228,S10_1949,Cambridge Collectables Co.,Cambridge,USA,NA,Medium,2
+10245,S10_1949,Super Scale Inc.,New Haven,USA,NA,Medium,9
+10258,S10_1949,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Large,6
+10270,S10_1949,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,9
+10280,S10_1949,Amica Models & Co.,Torino,Italy,EMEA,Large,2
+10291,S10_1949,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Large,11
+10304,S10_1949,Auto Assoc. & Cie.,Versailles,France,EMEA,Large,6
+10312,S10_1949,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,3
+10322,S10_1949,Online Diecast Creations Co.,Nashua,USA,NA,Medium,1
+10333,S10_1949,Mini Wheels Co.,San Francisco,USA,NA,Medium,3
+10347,S10_1949,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,1
+10357,S10_1949,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,10
+10369,S10_1949,Collectables For Less Inc.,Brickhaven,USA,NA,Medium,2
+10381,S10_1949,Corporate Gift Ideas Co.,San Francisco,USA,NA,Large,3
+10391,S10_1949,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,4
+10411,S10_1949,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,9
+10424,S10_1949,Euro Shopping Channel,Madrid,Spain,EMEA,Large,6
+10107,S10_2016,Land of Toys Inc.,NYC,USA,NA,Medium,5
+10120,S10_2016,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,3
+10134,S10_2016,Lyon Souveniers,Paris,France,EMEA,Medium,5
+10145,S10_2016,Toys4GrownUps.com,Pasadena,USA,NA,Medium,9
+10159,S10_2016,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,17
+10168,S10_2016,Technics Stores Inc.,Burlingame,USA,NA,Medium,4
+10180,S10_2016,Daedalus Designs Imports,Lille,France,EMEA,Medium,12
+10188,S10_2016,Herkku Gifts,Bergen,Norway,EMEA,Medium,4
+10201,S10_2016,Mini Wheels Co.,San Francisco,USA,NA,Medium,5
+10210,S10_2016,Osaka Souveniers Co.,Osaka,Japan,Japan,Medium,2
+10223,S10_2016,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,4
+10236,S10_2016,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Small,1
+10251,S10_2016,Tekni Collectables Inc.,Newark,USA,NA,Medium,5
+10263,S10_2016,Gift Depot Inc.,Bridgewater,USA,NA,Medium,5
+10275,S10_2016,La Rochelle Gifts,Nantes,France,EMEA,Small,4
+10285,S10_2016,Marta's Replicas Co.,Cambridge,USA,NA,Medium,9
+10298,S10_2016,Atelier graphique,Nantes,France,EMEA,Medium,1
+10308,S10_2016,Mini Classics,White Plains,USA,NA,Medium,2
+10318,S10_2016,Diecast Classics Inc.,Allentown,USA,NA,Medium,4
+10329,S10_2016,Land of Toys Inc.,NYC,USA,NA,Medium,2
+10339,S10_2016,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,4
+10361,S10_2016,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,8
+10374,S10_2016,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Medium,5
+10388,S10_2016,FunGiftIdeas.com,New Bedford,USA,NA,Small,5
+10402,S10_2016,Auto Canal Petit,Paris,France,EMEA,Medium,1
+10417,S10_2016,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10107,S10_4698,Land of Toys Inc.,NYC,USA,NA,Medium,4
+10120,S10_4698,"Australian Collectors, Co.",Melbourne,Australia,APAC,Large,2
+10134,S10_4698,Lyon Souveniers,Paris,France,EMEA,Large,4
+10145,S10_4698,Toys4GrownUps.com,Pasadena,USA,NA,Medium,8
+10159,S10_4698,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,16
+10168,S10_4698,Technics Stores Inc.,Burlingame,USA,NA,Medium,3
+10180,S10_4698,Daedalus Designs Imports,Lille,France,EMEA,Large,11
+10188,S10_4698,Herkku Gifts,Bergen,Norway,EMEA,Large,3
+10201,S10_4698,Mini Wheels Co.,San Francisco,USA,NA,Large,4
+10210,S10_4698,Osaka Souveniers Co.,Osaka,Japan,Japan,Medium,1
+10223,S10_4698,"Australian Collectors, Co.",Melbourne,Australia,APAC,Large,3
+10237,S10_4698,Vitachrome Inc.,NYC,USA,NA,Large,9
+10251,S10_4698,Tekni Collectables Inc.,Newark,USA,NA,Large,4
+10263,S10_4698,Gift Depot Inc.,Bridgewater,USA,NA,Large,4
+10275,S10_4698,La Rochelle Gifts,Nantes,France,EMEA,Medium,3
+10285,S10_4698,Marta's Replicas Co.,Cambridge,USA,NA,Medium,8
+10299,S10_4698,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,11
+10308,S10_4698,Mini Classics,White Plains,USA,NA,Medium,1
+10318,S10_4698,Diecast Classics Inc.,Allentown,USA,NA,Large,3
+10329,S10_4698,Land of Toys Inc.,NYC,USA,NA,Medium,3
+10339,S10_4698,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,3
+10362,S10_4698,Technics Stores Inc.,Burlingame,USA,NA,Medium,4
+10374,S10_4698,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Medium,1
+10388,S10_4698,FunGiftIdeas.com,New Bedford,USA,NA,Small,7
+10403,S10_4698,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Large,9
+10417,S10_4698,Euro Shopping Channel,Madrid,Spain,EMEA,Large,4
+10105,S10_4757,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Large,2
+10119,S10_4757,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,11
+10129,S10_4757,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,2
+10143,S10_4757,Mini Creations Ltd.,New Bedford,USA,NA,Medium,15
+10155,S10_4757,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,13
+10167,S10_4757,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,9
+10178,S10_4757,Alpha Cognac,Toulouse,France,EMEA,Medium,12
+10186,S10_4757,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Medium,9
+10197,S10_4757,Enaco Distributors,Barcelona,Spain,EMEA,Medium,6
+10209,S10_4757,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Medium,8
+10222,S10_4757,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,12
+10248,S10_4757,Land of Toys Inc.,NYC,USA,NA,Small,3
+10261,S10_4757,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,1
+10273,S10_4757,Petit Auto,Bruxelles,Belgium,EMEA,Medium,4
+10283,S10_4757,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,6
+10295,S10_4757,Gifts4AllAges.com,Boston,USA,NA,Medium,1
+10307,S10_4757,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,9
+10316,S10_4757,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,17
+10325,S10_4757,Baane Mini Imports,Stavern,Norway,EMEA,Medium,6
+10337,S10_4757,Classic Legends Inc.,NYC,USA,NA,Small,8
+10350,S10_4757,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10359,S10_4757,Reims Collectables,Reims,France,EMEA,Small,6
+10373,S10_4757,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,3
+10384,S10_4757,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,4
+10395,S10_4757,Lyon Souveniers,Paris,France,EMEA,Medium,2
+10400,S10_4757,The Sharp Gifts Warehouse,San Jose,USA,NA,Large,9
+10414,S10_4757,Gifts4AllAges.com,Boston,USA,NA,Small,3
+10103,S10_4962,Baane Mini Imports,Stavern,Norway,EMEA,Medium,4
+10114,S10_4962,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,8
+10126,S10_4962,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,4
+10140,S10_4962,Technics Stores Inc.,Burlingame,USA,NA,Medium,4
+10150,S10_4962,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,1
+10164,S10_4962,Mini Auto Werke,Graz,Austria,EMEA,Medium,2
+10175,S10_4962,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,9
+10183,S10_4962,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Medium,1
+10194,S10_4962,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,4
+10207,S10_4962,Diecast Collectables,Boston,USA,NA,Medium,15
+10217,S10_4962,Handji Gifts& Co,Singapore,Singapore,APAC,Large,4
+10229,S10_4962,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,9
+10245,S10_4962,Super Scale Inc.,New Haven,USA,NA,Medium,2
+10259,S10_4962,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,12
+10270,S10_4962,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,2
+10281,S10_4962,Diecast Classics Inc.,Allentown,USA,NA,Large,9
+10291,S10_4962,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,4
+10305,S10_4962,Marta's Replicas Co.,Cambridge,USA,NA,Medium,13
+10313,S10_4962,Canadian Gift Exchange Network,Vancouver,Canada,NA,Medium,7
+10322,S10_4962,Online Diecast Creations Co.,Nashua,USA,NA,Small,8
+10334,S10_4962,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,2
+10347,S10_4962,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,2
+10357,S10_4962,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,9
+10370,S10_4962,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,4
+10381,S10_4962,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,6
+10391,S10_4962,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,7
+10411,S10_4962,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,2
+10425,S10_4962,La Rochelle Gifts,Nantes,France,EMEA,Medium,12
+10108,S12_1099,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,6
+10122,S12_1099,Marseille Mini Autos,Marseille,France,EMEA,Large,10
+10135,S12_1099,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,7
+10147,S12_1099,Collectables For Less Inc.,Brickhaven,USA,NA,Large,7
+10159,S12_1099,Corporate Gift Ideas Co.,San Francisco,USA,NA,Large,2
+10169,S12_1099,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,2
+10181,S12_1099,Herkku Gifts,Bergen,Norway,EMEA,Medium,14
+10191,S12_1099,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,3
+10203,S12_1099,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,8
+10211,S12_1099,Auto Canal Petit,Paris,France,EMEA,Large,2
+10225,S12_1099,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,9
+10238,S12_1099,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,3
+10253,S12_1099,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,13
+10266,S12_1099,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Large,14
+10276,S12_1099,Online Mini Collectables,Brickhaven,USA,NA,Large,3
+10287,S12_1099,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,12
+10300,S12_1099,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,5
+10310,S12_1099,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,10
+10320,S12_1099,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,3
+10329,S12_1099,Land of Toys Inc.,NYC,USA,NA,Small,5
+10341,S12_1099,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,2
+10363,S12_1099,Suominen Souveniers,Espoo,Finland,EMEA,Small,3
+10375,S12_1099,La Rochelle Gifts,Nantes,France,EMEA,Medium,7
+10389,S12_1099,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,4
+10419,S12_1099,Salzburg Collectables,Salzburg,Austria,EMEA,Small,13
+10105,S12_1108,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Large,15
+10117,S12_1108,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,9
+10127,S12_1108,Muscle Machine Inc,NYC,USA,NA,Large,2
+10142,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,12
+10153,S12_1108,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,11
+10165,S12_1108,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Large,3
+10176,S12_1108,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Large,2
+10185,S12_1108,Mini Creations Ltd.,New Bedford,USA,NA,Medium,13
+10196,S12_1108,Super Scale Inc.,New Haven,USA,NA,Large,5
+10208,S12_1108,"Saveley & Henriot, Co.",Lyon,France,EMEA,Large,13
+10220,S12_1108,"Clover Collections, Co.",Dublin,Ireland,EMEA,Large,2
+10231,S12_1108,CAF Imports,Madrid,Spain,EMEA,Large,2
+10247,S12_1108,Suominen Souveniers,Espoo,Finland,EMEA,Large,2
+10272,S12_1108,Diecast Classics Inc.,Allentown,USA,NA,Medium,2
+10282,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,5
+10293,S12_1108,Amica Models & Co.,Torino,Italy,EMEA,Large,8
+10306,S12_1108,"AV Stores, Co.",Manchester,UK,EMEA,Medium,13
+10314,S12_1108,Heintze Collectables,Aaarhus,Denmark,EMEA,Large,5
+10325,S12_1108,Baane Mini Imports,Stavern,Norway,EMEA,Small,8
+10336,S12_1108,"La Corne D'abondance, Co.",Paris,France,EMEA,Small,10
+10348,S12_1108,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,8
+10359,S12_1108,Reims Collectables,Reims,France,EMEA,Medium,8
+10371,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,6
+10382,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,10
+10395,S12_1108,Lyon Souveniers,Paris,France,EMEA,Small,1
+10413,S12_1108,Gift Depot Inc.,Bridgewater,USA,NA,Large,2
+10103,S12_1666,Baane Mini Imports,Stavern,Norway,EMEA,Medium,8
+10113,S12_1666,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,2
+10126,S12_1666,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,8
+10140,S12_1666,Technics Stores Inc.,Burlingame,USA,NA,Medium,8
+10150,S12_1666,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,5
+10164,S12_1666,Mini Auto Werke,Graz,Austria,EMEA,Medium,6
+10174,S12_1666,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Medium,1
+10183,S12_1666,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Medium,5
+10194,S12_1666,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,8
+10206,S12_1666,Canadian Gift Exchange Network,Vancouver,Canada,NA,Medium,3
+10216,S12_1666,Auto Assoc. & Cie.,Versailles,France,EMEA,Medium,1
+10229,S12_1666,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,13
+10245,S12_1666,Super Scale Inc.,New Haven,USA,NA,Medium,6
+10258,S12_1666,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,3
+10270,S12_1666,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,6
+10281,S12_1666,Diecast Classics Inc.,Allentown,USA,NA,Small,13
+10291,S12_1666,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,8
+10304,S12_1666,Auto Assoc. & Cie.,Versailles,France,EMEA,Medium,3
+10313,S12_1666,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,11
+10322,S12_1666,Online Diecast Creations Co.,Nashua,USA,NA,Medium,9
+10333,S12_1666,Mini Wheels Co.,San Francisco,USA,NA,Medium,6
+10347,S12_1666,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,3
+10357,S12_1666,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,8
+10370,S12_1666,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Large,8
+10381,S12_1666,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,1
+10391,S12_1666,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,9
+10411,S12_1666,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,6
+10424,S12_1666,Euro Shopping Channel,Madrid,Spain,EMEA,Large,3
+10107,S12_2823,Land of Toys Inc.,NYC,USA,NA,Medium,1
+10121,S12_2823,Reims Collectables,Reims,France,EMEA,Large,4
+10134,S12_2823,Lyon Souveniers,Paris,France,EMEA,Small,1
+10145,S12_2823,Toys4GrownUps.com,Pasadena,USA,NA,Large,5
+10159,S12_2823,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,13
+10169,S12_2823,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,13
+10180,S12_2823,Daedalus Designs Imports,Lille,France,EMEA,Medium,8
+10189,S12_2823,Toys4GrownUps.com,Pasadena,USA,NA,Medium,1
+10201,S12_2823,Mini Wheels Co.,San Francisco,USA,NA,Medium,1
+10211,S12_2823,Auto Canal Petit,Paris,France,EMEA,Medium,13
+10224,S12_2823,Daedalus Designs Imports,Lille,France,EMEA,Medium,6
+10237,S12_2823,Vitachrome Inc.,NYC,USA,NA,Medium,6
+10251,S12_2823,Tekni Collectables Inc.,Newark,USA,NA,Large,1
+10263,S12_2823,Gift Depot Inc.,Bridgewater,USA,NA,Medium,1
+10276,S12_2823,Online Mini Collectables,Brickhaven,USA,NA,Medium,14
+10285,S12_2823,Marta's Replicas Co.,Cambridge,USA,NA,Medium,5
+10299,S12_2823,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,8
+10309,S12_2823,Baane Mini Imports,Stavern,Norway,EMEA,Medium,4
+10319,S12_2823,Microscale Inc.,NYC,USA,NA,Medium,9
+10329,S12_2823,Land of Toys Inc.,NYC,USA,NA,Medium,6
+10341,S12_2823,Salzburg Collectables,Salzburg,Austria,EMEA,Large,8
+10362,S12_2823,Technics Stores Inc.,Burlingame,USA,NA,Medium,1
+10375,S12_2823,La Rochelle Gifts,Nantes,France,EMEA,Medium,13
+10388,S12_2823,FunGiftIdeas.com,New Bedford,USA,NA,Medium,6
+10403,S12_2823,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Large,6
+10417,S12_2823,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10104,S12_3148,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10117,S12_3148,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,10
+10127,S12_3148,Muscle Machine Inc,NYC,USA,NA,Large,3
+10142,S12_3148,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,13
+10153,S12_3148,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,12
+10165,S12_3148,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,4
+10176,S12_3148,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Large,3
+10185,S12_3148,Mini Creations Ltd.,New Bedford,USA,NA,Medium,14
+10196,S12_3148,Super Scale Inc.,New Haven,USA,NA,Medium,6
+10208,S12_3148,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,14
+10220,S12_3148,"Clover Collections, Co.",Dublin,Ireland,EMEA,Medium,3
+10230,S12_3148,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Large,1
+10247,S12_3148,Suominen Souveniers,Espoo,Finland,EMEA,Medium,3
+10272,S12_3148,Diecast Classics Inc.,Allentown,USA,NA,Medium,3
+10282,S12_3148,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,6
+10293,S12_3148,Amica Models & Co.,Torino,Italy,EMEA,Medium,9
+10306,S12_3148,"AV Stores, Co.",Manchester,UK,EMEA,Medium,14
+10314,S12_3148,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,6
+10324,S12_3148,Vitachrome Inc.,NYC,USA,NA,Small,1
+10336,S12_3148,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,11
+10348,S12_3148,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,4
+10358,S12_3148,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10372,S12_3148,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,4
+10382,S12_3148,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,11
+10413,S12_3148,Gift Depot Inc.,Bridgewater,USA,NA,Large,3
+10108,S12_3380,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,4
+10122,S12_3380,Marseille Mini Autos,Marseille,France,EMEA,Medium,8
+10135,S12_3380,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,5
+10147,S12_3380,Collectables For Less Inc.,Brickhaven,USA,NA,Medium,5
+10160,S12_3380,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Medium,6
+10170,S12_3380,Mini Auto Werke,Graz,Austria,EMEA,Medium,4
+10181,S12_3380,Herkku Gifts,Bergen,Norway,EMEA,Small,12
+10191,S12_3380,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,1
+10203,S12_3380,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10212,S12_3380,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,16
+10225,S12_3380,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Small,7
+10238,S12_3380,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,1
+10253,S12_3380,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,11
+10266,S12_3380,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,12
+10276,S12_3380,Online Mini Collectables,Brickhaven,USA,NA,Medium,1
+10287,S12_3380,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,10
+10300,S12_3380,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,3
+10310,S12_3380,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,8
+10320,S12_3380,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,1
+10329,S12_3380,Land of Toys Inc.,NYC,USA,NA,Medium,13
+10341,S12_3380,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,1
+10363,S12_3380,Suominen Souveniers,Espoo,Finland,EMEA,Medium,4
+10376,S12_3380,Boards & Toys Co.,Glendale,USA,NA,Medium,1
+10389,S12_3380,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,6
+10419,S12_3380,Salzburg Collectables,Salzburg,Austria,EMEA,Small,11
+10105,S12_3891,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,14
+10117,S12_3891,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,8
+10127,S12_3891,Muscle Machine Inc,NYC,USA,NA,Large,1
+10142,S12_3891,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,11
+10153,S12_3891,Euro Shopping Channel,Madrid,Spain,EMEA,Large,10
+10165,S12_3891,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,2
+10176,S12_3891,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Large,1
+10185,S12_3891,Mini Creations Ltd.,New Bedford,USA,NA,Large,12
+10196,S12_3891,Super Scale Inc.,New Haven,USA,NA,Large,4
+10208,S12_3891,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,12
+10220,S12_3891,"Clover Collections, Co.",Dublin,Ireland,EMEA,Medium,1
+10231,S12_3891,CAF Imports,Madrid,Spain,EMEA,Medium,1
+10247,S12_3891,Suominen Souveniers,Espoo,Finland,EMEA,Medium,1
+10272,S12_3891,Diecast Classics Inc.,Allentown,USA,NA,Large,1
+10282,S12_3891,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,4
+10293,S12_3891,Amica Models & Co.,Torino,Italy,EMEA,Large,7
+10306,S12_3891,"AV Stores, Co.",Manchester,UK,EMEA,Medium,12
+10314,S12_3891,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,4
+10325,S12_3891,Baane Mini Imports,Stavern,Norway,EMEA,Small,1
+10336,S12_3891,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,1
+10349,S12_3891,Muscle Machine Inc,NYC,USA,NA,Medium,10
+10359,S12_3891,Reims Collectables,Reims,France,EMEA,Medium,5
+10372,S12_3891,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,1
+10382,S12_3891,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,12
+10396,S12_3891,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,3
+10413,S12_3891,Gift Depot Inc.,Bridgewater,USA,NA,Medium,1
+10108,S12_3990,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,7
+10122,S12_3990,Marseille Mini Autos,Marseille,France,EMEA,Small,11
+10135,S12_3990,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,8
+10147,S12_3990,Collectables For Less Inc.,Brickhaven,USA,NA,Small,8
+10159,S12_3990,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,3
+10169,S12_3990,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,3
+10181,S12_3990,Herkku Gifts,Bergen,Norway,EMEA,Small,15
+10191,S12_3990,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Small,4
+10203,S12_3990,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,9
+10211,S12_3990,Auto Canal Petit,Paris,France,EMEA,Small,3
+10225,S12_3990,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Small,10
+10238,S12_3990,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,4
+10253,S12_3990,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,14
+10266,S12_3990,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,15
+10276,S12_3990,Online Mini Collectables,Brickhaven,USA,NA,Medium,4
+10287,S12_3990,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Small,13
+10300,S12_3990,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Small,6
+10310,S12_3990,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,11
+10320,S12_3990,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Small,4
+10329,S12_3990,Land of Toys Inc.,NYC,USA,NA,Medium,14
+10341,S12_3990,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,10
+10363,S12_3990,Suominen Souveniers,Espoo,Finland,EMEA,Small,5
+10377,S12_3990,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,5
+10389,S12_3990,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,7
+10419,S12_3990,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,14
+10104,S12_4473,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,9
+10115,S12_4473,Classic Legends Inc.,NYC,USA,NA,Medium,5
+10127,S12_4473,Muscle Machine Inc,NYC,USA,NA,Small,11
+10141,S12_4473,Suominen Souveniers,Espoo,Finland,EMEA,Small,5
+10151,S12_4473,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,3
+10165,S12_4473,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,12
+10175,S12_4473,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,1
+10184,S12_4473,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Medium,6
+10195,S12_4473,Mini Classics,White Plains,USA,NA,Medium,6
+10207,S12_4473,Diecast Collectables,Boston,USA,NA,Medium,7
+10219,S12_4473,Signal Collectibles Ltd.,Brisbane,USA,NA,Medium,2
+10229,S12_4473,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,1
+10246,S12_4473,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10259,S12_4473,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,4
+10271,S12_4473,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,5
+10281,S12_4473,Diecast Classics Inc.,Allentown,USA,NA,Medium,1
+10292,S12_4473,Land of Toys Inc.,NYC,USA,NA,Small,8
+10305,S12_4473,Marta's Replicas Co.,Cambridge,USA,NA,Medium,5
+10314,S12_4473,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,14
+10324,S12_4473,Vitachrome Inc.,NYC,USA,NA,Small,7
+10336,S12_4473,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,3
+10349,S12_4473,Muscle Machine Inc,NYC,USA,NA,Medium,9
+10358,S12_4473,Euro Shopping Channel,Madrid,Spain,EMEA,Small,9
+10371,S12_4473,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,4
+10382,S12_4473,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,13
+10412,S12_4473,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10425,S12_4473,La Rochelle Gifts,Nantes,France,EMEA,Medium,4
+10108,S12_4675,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,3
+10122,S12_4675,Marseille Mini Autos,Marseille,France,EMEA,Small,7
+10135,S12_4675,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,4
+10147,S12_4675,Collectables For Less Inc.,Brickhaven,USA,NA,Medium,4
+10160,S12_4675,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Medium,5
+10170,S12_4675,Mini Auto Werke,Graz,Austria,EMEA,Medium,3
+10181,S12_4675,Herkku Gifts,Bergen,Norway,EMEA,Medium,11
+10192,S12_4675,Online Diecast Creations Co.,Nashua,USA,NA,Medium,16
+10203,S12_4675,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10212,S12_4675,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,15
+10225,S12_4675,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Small,6
+10239,S12_4675,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,5
+10253,S12_4675,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,10
+10266,S12_4675,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,11
+10277,S12_4675,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,1
+10287,S12_4675,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Small,9
+10300,S12_4675,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Small,2
+10310,S12_4675,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Small,7
+10321,S12_4675,FunGiftIdeas.com,New Bedford,USA,NA,Small,15
+10329,S12_4675,Land of Toys Inc.,NYC,USA,NA,Small,15
+10341,S12_4675,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,7
+10363,S12_4675,Suominen Souveniers,Espoo,Finland,EMEA,Medium,6
+10377,S12_4675,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,1
+10389,S12_4675,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,8
+10405,S12_4675,Mini Caravy,Strasbourg,France,EMEA,Large,5
+10419,S12_4675,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,10
+10103,S18_1097,Baane Mini Imports,Stavern,Norway,EMEA,Medium,10
+10113,S18_1097,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,4
+10126,S18_1097,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,10
+10140,S18_1097,Technics Stores Inc.,Burlingame,USA,NA,Medium,10
+10150,S18_1097,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,7
+10164,S18_1097,Mini Auto Werke,Graz,Austria,EMEA,Medium,8
+10174,S18_1097,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Medium,3
+10183,S18_1097,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,7
+10194,S18_1097,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,10
+10206,S18_1097,Canadian Gift Exchange Network,Vancouver,Canada,NA,Medium,5
+10215,S18_1097,West Coast Collectables Co.,Burbank,USA,NA,Medium,2
+10228,S18_1097,Cambridge Collectables Co.,Cambridge,USA,NA,Medium,1
+10245,S18_1097,Super Scale Inc.,New Haven,USA,NA,Medium,8
+10258,S18_1097,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,5
+10270,S18_1097,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,8
+10280,S18_1097,Amica Models & Co.,Torino,Italy,EMEA,Small,1
+10291,S18_1097,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,10
+10304,S18_1097,Auto Assoc. & Cie.,Versailles,France,EMEA,Medium,5
+10312,S18_1097,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,2
+10322,S18_1097,Online Diecast Creations Co.,Nashua,USA,NA,Small,10
+10333,S18_1097,Mini Wheels Co.,San Francisco,USA,NA,Small,7
+10347,S18_1097,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,5
+10357,S18_1097,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,1
+10370,S18_1097,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,1
+10381,S18_1097,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,2
+10391,S18_1097,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,10
+10411,S18_1097,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,8
+10424,S18_1097,Euro Shopping Channel,Madrid,Spain,EMEA,Large,5
+10109,S18_1129,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,4
+10122,S18_1129,Marseille Mini Autos,Marseille,France,EMEA,Medium,2
+10136,S18_1129,Alpha Cognac,Toulouse,France,EMEA,Medium,2
+10148,S18_1129,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,13
+10161,S18_1129,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,12
+10171,S18_1129,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,2
+10181,S18_1129,Herkku Gifts,Bergen,Norway,EMEA,Medium,6
+10192,S18_1129,Online Diecast Creations Co.,Nashua,USA,NA,Medium,11
+10204,S18_1129,Muscle Machine Inc,NYC,USA,NA,Medium,17
+10212,S18_1129,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,10
+10225,S18_1129,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,1
+10240,S18_1129,Osaka Souveniers Co.,Osaka,Japan,Japan,Medium,3
+10253,S18_1129,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,5
+10266,S18_1129,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,6
+10278,S18_1129,Signal Gift Stores,Las Vegas,USA,NA,Medium,6
+10287,S18_1129,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,4
+10301,S18_1129,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Medium,8
+10310,S18_1129,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,2
+10321,S18_1129,FunGiftIdeas.com,New Bedford,USA,NA,Medium,10
+10331,S18_1129,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,6
+10342,S18_1129,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,2
+10356,S18_1129,Lyon Souveniers,Paris,France,EMEA,Medium,8
+10365,S18_1129,Mini Creations Ltd.,New Bedford,USA,NA,Small,1
+10377,S18_1129,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,2
+10390,S18_1129,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,14
+10406,S18_1129,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Large,3
+10419,S18_1129,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,5
+10102,S18_1342,Vitachrome Inc.,NYC,USA,NA,Medium,2
+10111,S18_1342,Mini Wheels Co.,San Francisco,USA,NA,Medium,6
+10125,S18_1342,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,1
+10139,S18_1342,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,7
+10149,S18_1342,Signal Collectibles Ltd.,Brisbane,USA,NA,Medium,4
+10162,S18_1342,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,2
+10173,S18_1342,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,6
+10182,S18_1342,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,3
+10193,S18_1342,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Medium,7
+10205,S18_1342,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10215,S18_1342,West Coast Collectables Co.,Burbank,USA,NA,Small,10
+10227,S18_1342,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,3
+10244,S18_1342,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,7
+10256,S18_1342,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,2
+10280,S18_1342,Amica Models & Co.,Torino,Italy,EMEA,Medium,9
+10289,S18_1342,Herkku Gifts,Bergen,Norway,EMEA,Medium,2
+10304,S18_1342,Auto Assoc. & Cie.,Versailles,France,EMEA,Medium,13
+10312,S18_1342,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,10
+10322,S18_1342,Online Diecast Creations Co.,Nashua,USA,NA,Medium,14
+10332,S18_1342,"AV Stores, Co.",Manchester,UK,EMEA,Medium,15
+10346,S18_1342,Signal Gift Stores,Las Vegas,USA,NA,Small,3
+10356,S18_1342,Lyon Souveniers,Paris,France,EMEA,Small,9
+10369,S18_1342,Collectables For Less Inc.,Brickhaven,USA,NA,Large,8
+10380,S18_1342,Euro Shopping Channel,Madrid,Spain,EMEA,Small,13
+10391,S18_1342,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,2
+10422,S18_1342,Diecast Classics Inc.,Allentown,USA,NA,Medium,2
+10102,S18_1367,Vitachrome Inc.,NYC,USA,NA,Small,1
+10111,S18_1367,Mini Wheels Co.,San Francisco,USA,NA,Small,5
+10126,S18_1367,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,17
+10139,S18_1367,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,6
+10149,S18_1367,Signal Collectibles Ltd.,Brisbane,USA,NA,Small,3
+10162,S18_1367,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,1
+10173,S18_1367,Rovelli Gifts,Bergamo,Italy,EMEA,Small,5
+10182,S18_1367,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,2
+10193,S18_1367,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,6
+10205,S18_1367,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10215,S18_1367,West Coast Collectables Co.,Burbank,USA,NA,Small,9
+10227,S18_1367,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,2
+10244,S18_1367,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10256,S18_1367,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,1
+10280,S18_1367,Amica Models & Co.,Torino,Italy,EMEA,Small,8
+10289,S18_1367,Herkku Gifts,Bergen,Norway,EMEA,Small,1
+10304,S18_1367,Auto Assoc. & Cie.,Versailles,France,EMEA,Small,12
+10312,S18_1367,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,9
+10322,S18_1367,Online Diecast Creations Co.,Nashua,USA,NA,Small,5
+10332,S18_1367,"AV Stores, Co.",Manchester,UK,EMEA,Small,16
+10347,S18_1367,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,7
+10356,S18_1367,Lyon Souveniers,Paris,France,EMEA,Small,6
+10369,S18_1367,Collectables For Less Inc.,Brickhaven,USA,NA,Medium,7
+10381,S18_1367,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,9
+10391,S18_1367,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,3
+10422,S18_1367,Diecast Classics Inc.,Allentown,USA,NA,Small,1
+10110,S18_1589,"AV Stores, Co.",Manchester,UK,EMEA,Medium,16
+10123,S18_1589,Atelier graphique,Nantes,France,EMEA,Medium,2
+10137,S18_1589,Reims Collectables,Reims,France,EMEA,Medium,2
+10148,S18_1589,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,9
+10161,S18_1589,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,8
+10172,S18_1589,Gift Depot Inc.,Bridgewater,USA,NA,Medium,6
+10181,S18_1589,Herkku Gifts,Bergen,Norway,EMEA,Medium,2
+10192,S18_1589,Online Diecast Creations Co.,Nashua,USA,NA,Medium,7
+10204,S18_1589,Muscle Machine Inc,NYC,USA,NA,Medium,13
+10212,S18_1589,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,6
+10226,S18_1589,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,4
+10241,S18_1589,Mini Caravy,Strasbourg,France,EMEA,Small,11
+10253,S18_1589,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,1
+10266,S18_1589,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,2
+10278,S18_1589,Signal Gift Stores,Las Vegas,USA,NA,Small,2
+10288,S18_1589,Handji Gifts& Co,Singapore,Singapore,APAC,Small,14
+10301,S18_1589,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Medium,4
+10311,S18_1589,Euro Shopping Channel,Madrid,Spain,EMEA,Small,9
+10321,S18_1589,FunGiftIdeas.com,New Bedford,USA,NA,Medium,6
+10331,S18_1589,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,14
+10343,S18_1589,Reims Collectables,Reims,France,EMEA,Medium,4
+10367,S18_1589,Toys4GrownUps.com,Pasadena,USA,NA,Small,1
+10378,S18_1589,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10407,S18_1589,The Sharp Gifts Warehouse,San Jose,USA,NA,Large,11
+10419,S18_1589,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,1
+10106,S18_1662,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,12
+10119,S18_1662,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,3
+10131,S18_1662,Gift Ideas Corp.,Glendale,USA,NA,Small,4
+10143,S18_1662,Mini Creations Ltd.,New Bedford,USA,NA,Medium,7
+10155,S18_1662,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,5
+10167,S18_1662,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,1
+10178,S18_1662,Alpha Cognac,Toulouse,France,EMEA,Medium,4
+10186,S18_1662,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Medium,1
+10198,S18_1662,Cruz & Sons Co.,Makati City,Philippines,Japan,Large,4
+10210,S18_1662,Osaka Souveniers Co.,Osaka,Japan,Japan,Medium,17
+10222,S18_1662,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,4
+10250,S18_1662,The Sharp Gifts Warehouse,San Jose,USA,NA,Large,14
+10262,S18_1662,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,9
+10274,S18_1662,Collectables For Less Inc.,Brickhaven,USA,NA,Medium,1
+10284,S18_1662,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Medium,11
+10296,S18_1662,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Medium,7
+10307,S18_1662,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Large,1
+10316,S18_1662,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,9
+10327,S18_1662,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,6
+10338,S18_1662,Royale Belge,Charleroi,Belgium,EMEA,Medium,1
+10351,S18_1662,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,1
+10373,S18_1662,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,4
+10386,S18_1662,Euro Shopping Channel,Madrid,Spain,EMEA,Small,7
+10398,S18_1662,Reims Collectables,Reims,France,EMEA,Medium,11
+10400,S18_1662,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,1
+10416,S18_1662,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,14
+10100,S18_1749,Online Diecast Creations Co.,Nashua,USA,NA,Medium,3
+10110,S18_1749,"AV Stores, Co.",Manchester,UK,EMEA,Medium,7
+10124,S18_1749,Signal Gift Stores,Las Vegas,USA,NA,Small,6
+10149,S18_1749,Signal Collectibles Ltd.,Brisbane,USA,NA,Medium,11
+10162,S18_1749,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,9
+10173,S18_1749,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,13
+10182,S18_1749,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,10
+10193,S18_1749,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Medium,14
+10204,S18_1749,Muscle Machine Inc,NYC,USA,NA,Medium,4
+10214,S18_1749,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,7
+10227,S18_1749,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,10
+10241,S18_1749,Mini Caravy,Strasbourg,France,EMEA,Large,2
+10280,S18_1749,Amica Models & Co.,Torino,Italy,EMEA,Medium,16
+10288,S18_1749,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,5
+10302,S18_1749,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Large,1
+10312,S18_1749,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,17
+10331,S18_1749,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,7
+10344,S18_1749,Marseille Mini Autos,Marseille,France,EMEA,Large,1
+10367,S18_1749,Toys4GrownUps.com,Pasadena,USA,NA,Medium,3
+10379,S18_1749,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10407,S18_1749,The Sharp Gifts Warehouse,San Jose,USA,NA,Large,2
+10420,S18_1749,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,5
+10108,S18_1889,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,2
+10122,S18_1889,Marseille Mini Autos,Marseille,France,EMEA,Medium,6
+10135,S18_1889,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,3
+10147,S18_1889,Collectables For Less Inc.,Brickhaven,USA,NA,Small,3
+10160,S18_1889,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Medium,4
+10170,S18_1889,Mini Auto Werke,Graz,Austria,EMEA,Small,2
+10181,S18_1889,Herkku Gifts,Bergen,Norway,EMEA,Small,10
+10192,S18_1889,Online Diecast Creations Co.,Nashua,USA,NA,Medium,15
+10203,S18_1889,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10212,S18_1889,Euro Shopping Channel,Madrid,Spain,EMEA,Small,14
+10225,S18_1889,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,5
+10239,S18_1889,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,4
+10253,S18_1889,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,9
+10266,S18_1889,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,10
+10278,S18_1889,Signal Gift Stores,Las Vegas,USA,NA,Small,10
+10287,S18_1889,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,8
+10300,S18_1889,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,1
+10310,S18_1889,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Small,6
+10321,S18_1889,FunGiftIdeas.com,New Bedford,USA,NA,Small,14
+10329,S18_1889,Land of Toys Inc.,NYC,USA,NA,Small,9
+10342,S18_1889,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,1
+10363,S18_1889,Suominen Souveniers,Espoo,Finland,EMEA,Medium,7
+10377,S18_1889,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,4
+10389,S18_1889,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,3
+10405,S18_1889,Mini Caravy,Strasbourg,France,EMEA,Medium,4
+10419,S18_1889,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,9
+10109,S18_1984,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,3
+10122,S18_1984,Marseille Mini Autos,Marseille,France,EMEA,Medium,1
+10136,S18_1984,Alpha Cognac,Toulouse,France,EMEA,Medium,1
+10148,S18_1984,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,12
+10161,S18_1984,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,11
+10171,S18_1984,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,1
+10181,S18_1984,Herkku Gifts,Bergen,Norway,EMEA,Medium,5
+10192,S18_1984,Online Diecast Creations Co.,Nashua,USA,NA,Large,10
+10204,S18_1984,Muscle Machine Inc,NYC,USA,NA,Medium,16
+10212,S18_1984,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,9
+10226,S18_1984,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,7
+10240,S18_1984,Osaka Souveniers Co.,Osaka,Japan,Japan,Medium,2
+10253,S18_1984,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,4
+10266,S18_1984,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,5
+10278,S18_1984,Signal Gift Stores,Las Vegas,USA,NA,Medium,5
+10287,S18_1984,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,3
+10301,S18_1984,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Large,7
+10310,S18_1984,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,1
+10321,S18_1984,FunGiftIdeas.com,New Bedford,USA,NA,Medium,9
+10331,S18_1984,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Small,8
+10342,S18_1984,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,3
+10356,S18_1984,Lyon Souveniers,Paris,France,EMEA,Small,2
+10366,S18_1984,Royale Belge,Charleroi,Belgium,EMEA,Medium,3
+10377,S18_1984,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,6
+10390,S18_1984,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,15
+10406,S18_1984,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Large,2
+10419,S18_1984,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,4
+10104,S18_2238,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,8
+10115,S18_2238,Classic Legends Inc.,NYC,USA,NA,Large,4
+10127,S18_2238,Muscle Machine Inc,NYC,USA,NA,Large,10
+10141,S18_2238,Suominen Souveniers,Espoo,Finland,EMEA,Medium,4
+10151,S18_2238,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Large,2
+10165,S18_2238,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,11
+10176,S18_2238,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,10
+10184,S18_2238,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Large,5
+10195,S18_2238,Mini Classics,White Plains,USA,NA,Medium,5
+10207,S18_2238,Diecast Collectables,Boston,USA,NA,Large,6
+10219,S18_2238,Signal Collectibles Ltd.,Brisbane,USA,NA,Large,1
+10230,S18_2238,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Large,8
+10246,S18_2238,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10259,S18_2238,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,3
+10271,S18_2238,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,4
+10282,S18_2238,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,13
+10292,S18_2238,Land of Toys Inc.,NYC,USA,NA,Medium,7
+10305,S18_2238,Marta's Replicas Co.,Cambridge,USA,NA,Medium,4
+10314,S18_2238,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,13
+10324,S18_2238,Vitachrome Inc.,NYC,USA,NA,Large,8
+10336,S18_2238,"La Corne D'abondance, Co.",Paris,France,EMEA,Large,6
+10349,S18_2238,Muscle Machine Inc,NYC,USA,NA,Medium,8
+10358,S18_2238,Euro Shopping Channel,Madrid,Spain,EMEA,Small,10
+10371,S18_2238,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,7
+10382,S18_2238,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,5
+10412,S18_2238,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10425,S18_2238,La Rochelle Gifts,Nantes,France,EMEA,Medium,3
+10100,S18_2248,Online Diecast Creations Co.,Nashua,USA,NA,Medium,2
+10110,S18_2248,"AV Stores, Co.",Manchester,UK,EMEA,Small,6
+10124,S18_2248,Signal Gift Stores,Las Vegas,USA,NA,Small,5
+10149,S18_2248,Signal Collectibles Ltd.,Brisbane,USA,NA,Small,10
+10162,S18_2248,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,8
+10173,S18_2248,Rovelli Gifts,Bergamo,Italy,EMEA,Small,12
+10182,S18_2248,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,9
+10193,S18_2248,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,13
+10204,S18_2248,Muscle Machine Inc,NYC,USA,NA,Small,3
+10214,S18_2248,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,6
+10227,S18_2248,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,9
+10241,S18_2248,Mini Caravy,Strasbourg,France,EMEA,Small,1
+10280,S18_2248,Amica Models & Co.,Torino,Italy,EMEA,Small,15
+10288,S18_2248,Handji Gifts& Co,Singapore,Singapore,APAC,Small,4
+10303,S18_2248,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Small,2
+10312,S18_2248,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,16
+10332,S18_2248,"AV Stores, Co.",Manchester,UK,EMEA,Medium,9
+10344,S18_2248,Marseille Mini Autos,Marseille,France,EMEA,Small,2
+10367,S18_2248,Toys4GrownUps.com,Pasadena,USA,NA,Large,4
+10379,S18_2248,Euro Shopping Channel,Madrid,Spain,EMEA,Small,1
+10407,S18_2248,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,1
+10420,S18_2248,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,4
+10104,S18_2319,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,12
+10114,S18_2319,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,3
+10127,S18_2319,Muscle Machine Inc,NYC,USA,NA,Medium,14
+10141,S18_2319,Suominen Souveniers,Espoo,Finland,EMEA,Medium,8
+10151,S18_2319,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,6
+10165,S18_2319,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,15
+10175,S18_2319,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,4
+10184,S18_2319,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Medium,9
+10195,S18_2319,Mini Classics,White Plains,USA,NA,Medium,9
+10207,S18_2319,Diecast Collectables,Boston,USA,NA,Medium,10
+10229,S18_2319,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,4
+10246,S18_2319,Euro Shopping Channel,Madrid,Spain,EMEA,Small,8
+10259,S18_2319,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,7
+10271,S18_2319,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,8
+10281,S18_2319,Diecast Classics Inc.,Allentown,USA,NA,Medium,4
+10292,S18_2319,Land of Toys Inc.,NYC,USA,NA,Medium,11
+10305,S18_2319,Marta's Replicas Co.,Cambridge,USA,NA,Medium,8
+10313,S18_2319,Canadian Gift Exchange Network,Vancouver,Canada,NA,Medium,2
+10324,S18_2319,Vitachrome Inc.,NYC,USA,NA,Small,10
+10334,S18_2319,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,6
+10349,S18_2319,Muscle Machine Inc,NYC,USA,NA,Medium,7
+10358,S18_2319,Euro Shopping Channel,Madrid,Spain,EMEA,Small,11
+10370,S18_2319,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,5
+10383,S18_2319,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,11
+10412,S18_2319,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,8
+10425,S18_2319,La Rochelle Gifts,Nantes,France,EMEA,Medium,7
+10101,S18_2325,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,4
+10110,S18_2325,"AV Stores, Co.",Manchester,UK,EMEA,Medium,4
+10124,S18_2325,Signal Gift Stores,Las Vegas,USA,NA,Medium,3
+10149,S18_2325,Signal Collectibles Ltd.,Brisbane,USA,NA,Medium,8
+10162,S18_2325,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,6
+10173,S18_2325,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,10
+10182,S18_2325,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,7
+10193,S18_2325,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Medium,11
+10204,S18_2325,Muscle Machine Inc,NYC,USA,NA,Medium,1
+10214,S18_2325,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,4
+10227,S18_2325,"Saveley & Henriot, Co.",Lyon,France,EMEA,Large,7
+10243,S18_2325,Diecast Collectables,Boston,USA,NA,Medium,2
+10280,S18_2325,Amica Models & Co.,Torino,Italy,EMEA,Medium,13
+10288,S18_2325,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,2
+10304,S18_2325,Auto Assoc. & Cie.,Versailles,France,EMEA,Small,17
+10312,S18_2325,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,14
+10322,S18_2325,Online Diecast Creations Co.,Nashua,USA,NA,Large,6
+10332,S18_2325,"AV Stores, Co.",Manchester,UK,EMEA,Small,8
+10344,S18_2325,Marseille Mini Autos,Marseille,France,EMEA,Medium,3
+10356,S18_2325,Lyon Souveniers,Paris,France,EMEA,Medium,3
+10367,S18_2325,Toys4GrownUps.com,Pasadena,USA,NA,Medium,5
+10380,S18_2325,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,10
+10390,S18_2325,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,16
+10409,S18_2325,Handji Gifts& Co,Singapore,Singapore,APAC,Small,2
+10420,S18_2325,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,2
+10103,S18_2432,Baane Mini Imports,Stavern,Norway,EMEA,Small,2
+10114,S18_2432,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,6
+10126,S18_2432,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,2
+10140,S18_2432,Technics Stores Inc.,Burlingame,USA,NA,Small,2
+10151,S18_2432,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,9
+10165,S18_2432,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,18
+10175,S18_2432,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,7
+10184,S18_2432,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Small,12
+10194,S18_2432,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,2
+10207,S18_2432,Diecast Collectables,Boston,USA,NA,Small,13
+10217,S18_2432,Handji Gifts& Co,Singapore,Singapore,APAC,Small,2
+10229,S18_2432,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,7
+10246,S18_2432,Euro Shopping Channel,Madrid,Spain,EMEA,Small,11
+10259,S18_2432,Handji Gifts& Co,Singapore,Singapore,APAC,Small,10
+10271,S18_2432,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,11
+10281,S18_2432,Diecast Classics Inc.,Allentown,USA,NA,Small,7
+10291,S18_2432,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,2
+10305,S18_2432,Marta's Replicas Co.,Cambridge,USA,NA,Small,11
+10313,S18_2432,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,5
+10322,S18_2432,Online Diecast Creations Co.,Nashua,USA,NA,Small,11
+10334,S18_2432,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Small,1
+10347,S18_2432,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,8
+10357,S18_2432,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,7
+10370,S18_2432,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,7
+10381,S18_2432,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,7
+10391,S18_2432,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,5
+10412,S18_2432,Euro Shopping Channel,Madrid,Spain,EMEA,Small,11
+10425,S18_2432,La Rochelle Gifts,Nantes,France,EMEA,Small,10
+10106,S18_2581,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,2
+10120,S18_2581,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,8
+10133,S18_2581,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10145,S18_2581,Toys4GrownUps.com,Pasadena,USA,NA,Small,14
+10168,S18_2581,Technics Stores Inc.,Burlingame,USA,NA,Small,9
+10210,S18_2581,Osaka Souveniers Co.,Osaka,Japan,Japan,Medium,7
+10223,S18_2581,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,9
+10235,S18_2581,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,3
+10250,S18_2581,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,4
+10263,S18_2581,Gift Depot Inc.,Bridgewater,USA,NA,Small,10
+10275,S18_2581,La Rochelle Gifts,Nantes,France,EMEA,Medium,9
+10284,S18_2581,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,1
+10297,S18_2581,"Clover Collections, Co.",Dublin,Ireland,EMEA,Small,4
+10308,S18_2581,Mini Classics,White Plains,USA,NA,Small,7
+10318,S18_2581,Diecast Classics Inc.,Allentown,USA,NA,Medium,9
+10327,S18_2581,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,8
+10339,S18_2581,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,2
+10353,S18_2581,Gift Ideas Corp.,Glendale,USA,NA,Medium,1
+10374,S18_2581,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Small,2
+10386,S18_2581,Euro Shopping Channel,Madrid,Spain,EMEA,Small,18
+10398,S18_2581,Reims Collectables,Reims,France,EMEA,Small,15
+10401,S18_2581,Tekni Collectables Inc.,Newark,USA,NA,Medium,3
+10416,S18_2581,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,4
+10107,S18_2625,Land of Toys Inc.,NYC,USA,NA,Small,6
+10120,S18_2625,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,4
+10134,S18_2625,Lyon Souveniers,Paris,France,EMEA,Small,6
+10145,S18_2625,Toys4GrownUps.com,Pasadena,USA,NA,Small,10
+10159,S18_2625,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,18
+10168,S18_2625,Technics Stores Inc.,Burlingame,USA,NA,Small,5
+10180,S18_2625,Daedalus Designs Imports,Lille,France,EMEA,Small,13
+10188,S18_2625,Herkku Gifts,Bergen,Norway,EMEA,Small,5
+10201,S18_2625,Mini Wheels Co.,San Francisco,USA,NA,Small,6
+10210,S18_2625,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,3
+10223,S18_2625,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,5
+10236,S18_2625,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Small,2
+10251,S18_2625,Tekni Collectables Inc.,Newark,USA,NA,Small,6
+10263,S18_2625,Gift Depot Inc.,Bridgewater,USA,NA,Small,6
+10275,S18_2625,La Rochelle Gifts,Nantes,France,EMEA,Small,5
+10285,S18_2625,Marta's Replicas Co.,Cambridge,USA,NA,Small,10
+10298,S18_2625,Atelier graphique,Nantes,France,EMEA,Small,2
+10308,S18_2625,Mini Classics,White Plains,USA,NA,Small,3
+10318,S18_2625,Diecast Classics Inc.,Allentown,USA,NA,Small,5
+10329,S18_2625,Land of Toys Inc.,NYC,USA,NA,Medium,12
+10339,S18_2625,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,1
+10362,S18_2625,Technics Stores Inc.,Burlingame,USA,NA,Small,3
+10374,S18_2625,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Small,4
+10389,S18_2625,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,5
+10402,S18_2625,Auto Canal Petit,Paris,France,EMEA,Medium,2
+10417,S18_2625,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10101,S18_2795,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,1
+10110,S18_2795,"AV Stores, Co.",Manchester,UK,EMEA,Medium,1
+10125,S18_2795,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,2
+10139,S18_2795,Souveniers And Things Co.,Chatswood,Australia,APAC,Large,8
+10149,S18_2795,Signal Collectibles Ltd.,Brisbane,USA,NA,Medium,5
+10162,S18_2795,Corporate Gift Ideas Co.,San Francisco,USA,NA,Large,3
+10173,S18_2795,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,7
+10182,S18_2795,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,4
+10193,S18_2795,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Medium,8
+10205,S18_2795,Euro Shopping Channel,Madrid,Spain,EMEA,Large,3
+10214,S18_2795,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Large,1
+10227,S18_2795,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,4
+10244,S18_2795,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,8
+10255,S18_2795,Mini Caravy,Strasbourg,France,EMEA,Medium,1
+10280,S18_2795,Amica Models & Co.,Torino,Italy,EMEA,Medium,10
+10289,S18_2795,Herkku Gifts,Bergen,Norway,EMEA,Large,3
+10304,S18_2795,Auto Assoc. & Cie.,Versailles,France,EMEA,Medium,14
+10312,S18_2795,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,11
+10322,S18_2795,Online Diecast Creations Co.,Nashua,USA,NA,Medium,2
+10332,S18_2795,"AV Stores, Co.",Manchester,UK,EMEA,Small,1
+10347,S18_2795,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,6
+10356,S18_2795,Lyon Souveniers,Paris,France,EMEA,Medium,1
+10367,S18_2795,Toys4GrownUps.com,Pasadena,USA,NA,Medium,7
+10380,S18_2795,Euro Shopping Channel,Madrid,Spain,EMEA,Small,8
+10390,S18_2795,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,7
+10421,S18_2795,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,1
+10109,S18_2870,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,1
+10123,S18_2870,Atelier graphique,Nantes,France,EMEA,Medium,3
+10137,S18_2870,Reims Collectables,Reims,France,EMEA,Medium,3
+10148,S18_2870,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,10
+10161,S18_2870,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,9
+10172,S18_2870,Gift Depot Inc.,Bridgewater,USA,NA,Medium,7
+10181,S18_2870,Herkku Gifts,Bergen,Norway,EMEA,Medium,3
+10192,S18_2870,Online Diecast Creations Co.,Nashua,USA,NA,Medium,8
+10204,S18_2870,Muscle Machine Inc,NYC,USA,NA,Medium,14
+10212,S18_2870,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,7
+10226,S18_2870,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,5
+10241,S18_2870,Mini Caravy,Strasbourg,France,EMEA,Medium,12
+10253,S18_2870,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,2
+10266,S18_2870,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,3
+10278,S18_2870,Signal Gift Stores,Las Vegas,USA,NA,Medium,3
+10287,S18_2870,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,1
+10301,S18_2870,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Medium,5
+10311,S18_2870,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,10
+10321,S18_2870,FunGiftIdeas.com,New Bedford,USA,NA,Small,7
+10331,S18_2870,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Small,10
+10343,S18_2870,Reims Collectables,Reims,France,EMEA,Small,3
+10366,S18_2870,Royale Belge,Charleroi,Belgium,EMEA,Medium,2
+10379,S18_2870,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10407,S18_2870,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,12
+10419,S18_2870,Salzburg Collectables,Salzburg,Austria,EMEA,Large,2
+10103,S18_2949,Baane Mini Imports,Stavern,Norway,EMEA,Small,12
+10112,S18_2949,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Small,2
+10126,S18_2949,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,12
+10139,S18_2949,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,1
+10150,S18_2949,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,9
+10163,S18_2949,Classic Legends Inc.,NYC,USA,NA,Medium,2
+10174,S18_2949,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Medium,5
+10183,S18_2949,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Medium,9
+10193,S18_2949,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,1
+10206,S18_2949,Canadian Gift Exchange Network,Vancouver,Canada,NA,Medium,7
+10215,S18_2949,West Coast Collectables Co.,Burbank,USA,NA,Medium,4
+10228,S18_2949,Cambridge Collectables Co.,Cambridge,USA,NA,Small,3
+10244,S18_2949,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10257,S18_2949,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,1
+10270,S18_2949,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,10
+10280,S18_2949,Amica Models & Co.,Torino,Italy,EMEA,Medium,3
+10291,S18_2949,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,12
+10304,S18_2949,Auto Assoc. & Cie.,Versailles,France,EMEA,Medium,7
+10312,S18_2949,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,4
+10322,S18_2949,Online Diecast Creations Co.,Nashua,USA,NA,Medium,12
+10333,S18_2949,Mini Wheels Co.,San Francisco,USA,NA,Small,5
+10347,S18_2949,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,9
+10357,S18_2949,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,6
+10369,S18_2949,Collectables For Less Inc.,Brickhaven,USA,NA,Medium,1
+10381,S18_2949,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,8
+10391,S18_2949,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,6
+10423,S18_2949,Petit Auto,Bruxelles,Belgium,EMEA,Small,1
+10103,S18_2957,Baane Mini Imports,Stavern,Norway,EMEA,Small,14
+10111,S18_2957,Mini Wheels Co.,San Francisco,USA,NA,Small,2
+10126,S18_2957,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,14
+10139,S18_2957,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,3
+10150,S18_2957,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,11
+10163,S18_2957,Classic Legends Inc.,NYC,USA,NA,Medium,4
+10173,S18_2957,Rovelli Gifts,Bergamo,Italy,EMEA,Small,2
+10183,S18_2957,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,11
+10193,S18_2957,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,3
+10206,S18_2957,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,9
+10215,S18_2957,West Coast Collectables Co.,Burbank,USA,NA,Small,6
+10228,S18_2957,Cambridge Collectables Co.,Cambridge,USA,NA,Small,5
+10244,S18_2957,Euro Shopping Channel,Madrid,Spain,EMEA,Small,3
+10257,S18_2957,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,3
+10269,S18_2957,Salzburg Collectables,Salzburg,Austria,EMEA,Small,1
+10280,S18_2957,Amica Models & Co.,Torino,Italy,EMEA,Small,5
+10291,S18_2957,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,14
+10304,S18_2957,Auto Assoc. & Cie.,Versailles,France,EMEA,Small,9
+10312,S18_2957,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,6
+10322,S18_2957,Online Diecast Creations Co.,Nashua,USA,NA,Small,13
+10332,S18_2957,"AV Stores, Co.",Manchester,UK,EMEA,Small,17
+10347,S18_2957,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,10
+10357,S18_2957,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,5
+10369,S18_2957,Collectables For Less Inc.,Brickhaven,USA,NA,Small,6
+10381,S18_2957,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,4
+10392,S18_2957,Mini Auto Werke,Graz,Austria,EMEA,Small,3
+10423,S18_2957,Petit Auto,Bruxelles,Belgium,EMEA,Small,3
+10106,S18_3029,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,18
+10119,S18_3029,Salzburg Collectables,Salzburg,Austria,EMEA,Small,9
+10130,S18_3029,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Medium,2
+10143,S18_3029,Mini Creations Ltd.,New Bedford,USA,NA,Medium,13
+10155,S18_3029,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,11
+10167,S18_3029,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,7
+10178,S18_3029,Alpha Cognac,Toulouse,France,EMEA,Medium,10
+10186,S18_3029,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Small,7
+10197,S18_3029,Enaco Distributors,Barcelona,Spain,EMEA,Medium,4
+10209,S18_3029,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Small,6
+10222,S18_3029,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,10
+10248,S18_3029,Land of Toys Inc.,NYC,USA,NA,Small,1
+10262,S18_3029,Euro Shopping Channel,Madrid,Spain,EMEA,Small,15
+10273,S18_3029,Petit Auto,Bruxelles,Belgium,EMEA,Medium,2
+10283,S18_3029,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,4
+10296,S18_3029,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Small,13
+10307,S18_3029,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,7
+10316,S18_3029,giftsbymail.co.uk,Cowes,UK,EMEA,Small,15
+10327,S18_3029,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,5
+10338,S18_3029,Royale Belge,Charleroi,Belgium,EMEA,Small,3
+10350,S18_3029,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10373,S18_3029,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,5
+10386,S18_3029,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10398,S18_3029,Reims Collectables,Reims,France,EMEA,Small,18
+10400,S18_3029,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,7
+10414,S18_3029,Gifts4AllAges.com,Boston,USA,NA,Medium,1
+10103,S18_3136,Baane Mini Imports,Stavern,Norway,EMEA,Small,13
+10111,S18_3136,Mini Wheels Co.,San Francisco,USA,NA,Medium,1
+10126,S18_3136,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,13
+10139,S18_3136,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,2
+10150,S18_3136,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,10
+10163,S18_3136,Classic Legends Inc.,NYC,USA,NA,Medium,3
+10173,S18_3136,Rovelli Gifts,Bergamo,Italy,EMEA,Small,1
+10183,S18_3136,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,10
+10193,S18_3136,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,2
+10206,S18_3136,Canadian Gift Exchange Network,Vancouver,Canada,NA,Medium,8
+10215,S18_3136,West Coast Collectables Co.,Burbank,USA,NA,Medium,5
+10228,S18_3136,Cambridge Collectables Co.,Cambridge,USA,NA,Medium,4
+10244,S18_3136,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10257,S18_3136,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,2
+10270,S18_3136,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,11
+10280,S18_3136,Amica Models & Co.,Torino,Italy,EMEA,Medium,4
+10291,S18_3136,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,13
+10304,S18_3136,Auto Assoc. & Cie.,Versailles,France,EMEA,Small,8
+10312,S18_3136,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,5
+10322,S18_3136,Online Diecast Creations Co.,Nashua,USA,NA,Small,7
+10332,S18_3136,"AV Stores, Co.",Manchester,UK,EMEA,Small,18
+10347,S18_3136,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,11
+10357,S18_3136,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,4
+10369,S18_3136,Collectables For Less Inc.,Brickhaven,USA,NA,Small,5
+10381,S18_3136,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,5
+10392,S18_3136,Mini Auto Werke,Graz,Austria,EMEA,Small,2
+10423,S18_3136,Petit Auto,Bruxelles,Belgium,EMEA,Small,2
+10105,S18_3140,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,11
+10117,S18_3140,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,5
+10128,S18_3140,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10142,S18_3140,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,8
+10153,S18_3140,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,7
+10166,S18_3140,FunGiftIdeas.com,New Bedford,USA,NA,Medium,2
+10177,S18_3140,CAF Imports,Madrid,Spain,EMEA,Medium,9
+10185,S18_3140,Mini Creations Ltd.,New Bedford,USA,NA,Medium,9
+10196,S18_3140,Super Scale Inc.,New Haven,USA,NA,Medium,1
+10208,S18_3140,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,9
+10221,S18_3140,Petit Auto,Bruxelles,Belgium,EMEA,Medium,3
+10232,S18_3140,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,6
+10248,S18_3140,Land of Toys Inc.,NYC,USA,NA,Medium,12
+10273,S18_3140,Petit Auto,Bruxelles,Belgium,EMEA,Medium,13
+10282,S18_3140,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,1
+10293,S18_3140,Amica Models & Co.,Torino,Italy,EMEA,Small,4
+10306,S18_3140,"AV Stores, Co.",Manchester,UK,EMEA,Medium,9
+10314,S18_3140,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,1
+10325,S18_3140,Baane Mini Imports,Stavern,Norway,EMEA,Small,9
+10336,S18_3140,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,12
+10350,S18_3140,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10372,S18_3140,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,3
+10383,S18_3140,Euro Shopping Channel,Madrid,Spain,EMEA,Small,9
+10396,S18_3140,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,2
+10414,S18_3140,Gifts4AllAges.com,Boston,USA,NA,Medium,12
+10104,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,13
+10109,S18_3232,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Large,5
+10114,S18_3232,"La Corne D'abondance, Co.",Paris,France,EMEA,Large,4
+10122,S18_3232,Marseille Mini Autos,Marseille,France,EMEA,Medium,3
+10127,S18_3232,Muscle Machine Inc,NYC,USA,NA,Medium,15
+10136,S18_3232,Alpha Cognac,Toulouse,France,EMEA,Large,3
+10141,S18_3232,Suominen Souveniers,Espoo,Finland,EMEA,Medium,9
+10148,S18_3232,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,14
+10151,S18_3232,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,7
+10160,S18_3232,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Medium,1
+10165,S18_3232,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Large,16
+10171,S18_3232,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,3
+10175,S18_3232,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,5
+10181,S18_3232,Herkku Gifts,Bergen,Norway,EMEA,Medium,7
+10184,S18_3232,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Medium,10
+10192,S18_3232,Online Diecast Creations Co.,Nashua,USA,NA,Medium,12
+10195,S18_3232,Mini Classics,White Plains,USA,NA,Large,10
+10203,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Large,1
+10207,S18_3232,Diecast Collectables,Boston,USA,NA,Medium,11
+10212,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,11
+10225,S18_3232,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,2
+10229,S18_3232,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,5
+10239,S18_3232,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Large,1
+10246,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Large,9
+10253,S18_3232,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,6
+10259,S18_3232,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,8
+10266,S18_3232,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,7
+10271,S18_3232,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,9
+10278,S18_3232,Signal Gift Stores,Las Vegas,USA,NA,Medium,7
+10281,S18_3232,Diecast Classics Inc.,Allentown,USA,NA,Medium,5
+10287,S18_3232,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,5
+10292,S18_3232,Land of Toys Inc.,NYC,USA,NA,Small,12
+10301,S18_3232,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Medium,9
+10305,S18_3232,Marta's Replicas Co.,Cambridge,USA,NA,Large,9
+10310,S18_3232,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Large,3
+10313,S18_3232,Canadian Gift Exchange Network,Vancouver,Canada,NA,Medium,3
+10321,S18_3232,FunGiftIdeas.com,New Bedford,USA,NA,Medium,11
+10324,S18_3232,Vitachrome Inc.,NYC,USA,NA,Medium,12
+10331,S18_3232,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,11
+10334,S18_3232,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Small,3
+10342,S18_3232,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,4
+10349,S18_3232,Muscle Machine Inc,NYC,USA,NA,Large,6
+10358,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Small,12
+10366,S18_3232,Royale Belge,Charleroi,Belgium,EMEA,Medium,1
+10370,S18_3232,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,9
+10377,S18_3232,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Large,3
+10383,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,6
+10394,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10405,S18_3232,Mini Caravy,Strasbourg,France,EMEA,Large,1
+10412,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Large,9
+10419,S18_3232,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,6
+10425,S18_3232,La Rochelle Gifts,Nantes,France,EMEA,Medium,8
+10105,S18_3259,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,13
+10117,S18_3259,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,7
+10128,S18_3259,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10142,S18_3259,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,10
+10153,S18_3259,Euro Shopping Channel,Madrid,Spain,EMEA,Small,9
+10165,S18_3259,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,1
+10177,S18_3259,CAF Imports,Madrid,Spain,EMEA,Medium,11
+10185,S18_3259,Mini Creations Ltd.,New Bedford,USA,NA,Medium,11
+10196,S18_3259,Super Scale Inc.,New Haven,USA,NA,Medium,3
+10208,S18_3259,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,11
+10221,S18_3259,Petit Auto,Bruxelles,Belgium,EMEA,Small,5
+10232,S18_3259,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,8
+10248,S18_3259,Land of Toys Inc.,NYC,USA,NA,Medium,14
+10273,S18_3259,Petit Auto,Bruxelles,Belgium,EMEA,Medium,15
+10282,S18_3259,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,3
+10293,S18_3259,Amica Models & Co.,Torino,Italy,EMEA,Small,6
+10306,S18_3259,"AV Stores, Co.",Manchester,UK,EMEA,Medium,11
+10314,S18_3259,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,3
+10326,S18_3259,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,6
+10336,S18_3259,"La Corne D'abondance, Co.",Paris,France,EMEA,Small,7
+10350,S18_3259,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10372,S18_3259,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,5
+10383,S18_3259,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,12
+10396,S18_3259,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,4
+10414,S18_3259,Gifts4AllAges.com,Boston,USA,NA,Medium,14
+10108,S18_3278,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,9
+10122,S18_3278,Marseille Mini Autos,Marseille,France,EMEA,Small,13
+10135,S18_3278,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,10
+10147,S18_3278,Collectables For Less Inc.,Brickhaven,USA,NA,Medium,10
+10159,S18_3278,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,5
+10169,S18_3278,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,5
+10181,S18_3278,Herkku Gifts,Bergen,Norway,EMEA,Small,17
+10191,S18_3278,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,6
+10203,S18_3278,Euro Shopping Channel,Madrid,Spain,EMEA,Small,11
+10211,S18_3278,Auto Canal Petit,Paris,France,EMEA,Small,5
+10225,S18_3278,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,12
+10238,S18_3278,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,6
+10252,S18_3278,Auto Canal Petit,Paris,France,EMEA,Small,2
+10265,S18_3278,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Medium,2
+10276,S18_3278,Online Mini Collectables,Brickhaven,USA,NA,Small,6
+10287,S18_3278,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,15
+10300,S18_3278,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,8
+10310,S18_3278,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Small,13
+10319,S18_3278,Microscale Inc.,NYC,USA,NA,Medium,1
+10329,S18_3278,Land of Toys Inc.,NYC,USA,NA,Small,10
+10342,S18_3278,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,5
+10363,S18_3278,Suominen Souveniers,Espoo,Finland,EMEA,Small,10
+10378,S18_3278,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10390,S18_3278,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,9
+10103,S18_3320,Baane Mini Imports,Stavern,Norway,EMEA,Medium,16
+10111,S18_3320,Mini Wheels Co.,San Francisco,USA,NA,Medium,4
+10126,S18_3320,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,16
+10139,S18_3320,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,5
+10149,S18_3320,Signal Collectibles Ltd.,Brisbane,USA,NA,Medium,2
+10163,S18_3320,Classic Legends Inc.,NYC,USA,NA,Medium,6
+10173,S18_3320,Rovelli Gifts,Bergamo,Italy,EMEA,Small,4
+10182,S18_3320,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,1
+10193,S18_3320,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,5
+10206,S18_3320,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,11
+10215,S18_3320,West Coast Collectables Co.,Burbank,USA,NA,Medium,8
+10227,S18_3320,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,1
+10244,S18_3320,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10257,S18_3320,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,5
+10280,S18_3320,Amica Models & Co.,Torino,Italy,EMEA,Medium,7
+10290,S18_3320,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Small,2
+10304,S18_3320,Auto Assoc. & Cie.,Versailles,France,EMEA,Medium,11
+10312,S18_3320,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,8
+10323,S18_3320,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,2
+10333,S18_3320,Mini Wheels Co.,San Francisco,USA,NA,Large,2
+10347,S18_3320,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,12
+10357,S18_3320,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,3
+10369,S18_3320,Collectables For Less Inc.,Brickhaven,USA,NA,Medium,4
+10382,S18_3320,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,7
+10392,S18_3320,Mini Auto Werke,Graz,Austria,EMEA,Medium,1
+10423,S18_3320,Petit Auto,Bruxelles,Belgium,EMEA,Small,5
+10108,S18_3482,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,8
+10122,S18_3482,Marseille Mini Autos,Marseille,France,EMEA,Small,12
+10135,S18_3482,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,9
+10147,S18_3482,Collectables For Less Inc.,Brickhaven,USA,NA,Medium,9
+10159,S18_3482,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,4
+10169,S18_3482,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,4
+10181,S18_3482,Herkku Gifts,Bergen,Norway,EMEA,Medium,16
+10191,S18_3482,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,5
+10203,S18_3482,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,10
+10211,S18_3482,Auto Canal Petit,Paris,France,EMEA,Medium,4
+10225,S18_3482,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,11
+10238,S18_3482,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,5
+10252,S18_3482,Auto Canal Petit,Paris,France,EMEA,Medium,1
+10265,S18_3482,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Large,1
+10276,S18_3482,Online Mini Collectables,Brickhaven,USA,NA,Medium,5
+10287,S18_3482,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,14
+10300,S18_3482,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,7
+10310,S18_3482,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,12
+10320,S18_3482,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,5
+10330,S18_3482,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,3
+10342,S18_3482,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,7
+10355,S18_3482,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,7
+10363,S18_3482,Suominen Souveniers,Espoo,Finland,EMEA,Medium,11
+10378,S18_3482,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,10
+10390,S18_3482,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,1
+10109,S18_3685,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,2
+10123,S18_3685,Atelier graphique,Nantes,France,EMEA,Medium,4
+10137,S18_3685,Reims Collectables,Reims,France,EMEA,Medium,4
+10148,S18_3685,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,11
+10161,S18_3685,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,10
+10172,S18_3685,Gift Depot Inc.,Bridgewater,USA,NA,Medium,8
+10181,S18_3685,Herkku Gifts,Bergen,Norway,EMEA,Medium,4
+10192,S18_3685,Online Diecast Creations Co.,Nashua,USA,NA,Medium,9
+10204,S18_3685,Muscle Machine Inc,NYC,USA,NA,Medium,15
+10212,S18_3685,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,8
+10226,S18_3685,Collectable Mini Designs Co.,San Diego,USA,NA,Large,6
+10240,S18_3685,Osaka Souveniers Co.,Osaka,Japan,Japan,Medium,1
+10253,S18_3685,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,3
+10266,S18_3685,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,4
+10278,S18_3685,Signal Gift Stores,Las Vegas,USA,NA,Medium,4
+10287,S18_3685,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,2
+10301,S18_3685,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Medium,6
+10311,S18_3685,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,11
+10321,S18_3685,FunGiftIdeas.com,New Bedford,USA,NA,Medium,8
+10331,S18_3685,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Small,12
+10343,S18_3685,Reims Collectables,Reims,France,EMEA,Medium,2
+10367,S18_3685,Toys4GrownUps.com,Pasadena,USA,NA,Medium,6
+10379,S18_3685,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10406,S18_3685,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Large,1
+10419,S18_3685,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,3
+10108,S18_3782,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,12
+10122,S18_3782,Marseille Mini Autos,Marseille,France,EMEA,Small,16
+10135,S18_3782,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,13
+10146,S18_3782,Gift Ideas Corp.,Glendale,USA,NA,Medium,2
+10159,S18_3782,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,8
+10169,S18_3782,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,8
+10180,S18_3782,Daedalus Designs Imports,Lille,France,EMEA,Small,3
+10191,S18_3782,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,9
+10211,S18_3782,Auto Canal Petit,Paris,France,EMEA,Small,8
+10224,S18_3782,Daedalus Designs Imports,Lille,France,EMEA,Small,1
+10237,S18_3782,Vitachrome Inc.,NYC,USA,NA,Small,1
+10252,S18_3782,Auto Canal Petit,Paris,France,EMEA,Small,5
+10264,S18_3782,Gifts4AllAges.com,Boston,USA,NA,Small,3
+10276,S18_3782,Online Mini Collectables,Brickhaven,USA,NA,Small,9
+10286,S18_3782,"La Corne D'abondance, Co.",Paris,France,EMEA,Small,1
+10299,S18_3782,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,3
+10310,S18_3782,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Small,16
+10319,S18_3782,Microscale Inc.,NYC,USA,NA,Small,4
+10330,S18_3782,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,2
+10342,S18_3782,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,8
+10355,S18_3782,Euro Shopping Channel,Madrid,Spain,EMEA,Small,1
+10363,S18_3782,Suominen Souveniers,Espoo,Finland,EMEA,Small,12
+10378,S18_3782,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,9
+10390,S18_3782,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,2
+10403,S18_3782,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,1
+10106,S18_3856,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,17
+10119,S18_3856,Salzburg Collectables,Salzburg,Austria,EMEA,Small,8
+10130,S18_3856,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Medium,1
+10143,S18_3856,Mini Creations Ltd.,New Bedford,USA,NA,Medium,12
+10155,S18_3856,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,10
+10167,S18_3856,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,6
+10178,S18_3856,Alpha Cognac,Toulouse,France,EMEA,Medium,9
+10186,S18_3856,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Medium,6
+10197,S18_3856,Enaco Distributors,Barcelona,Spain,EMEA,Small,3
+10209,S18_3856,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Small,5
+10222,S18_3856,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,9
+10249,S18_3856,Cambridge Collectables Co.,Cambridge,USA,NA,Medium,5
+10262,S18_3856,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,14
+10273,S18_3856,Petit Auto,Bruxelles,Belgium,EMEA,Medium,1
+10283,S18_3856,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Medium,3
+10296,S18_3856,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Small,12
+10307,S18_3856,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Medium,6
+10316,S18_3856,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,14
+10328,S18_3856,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,6
+10338,S18_3856,Royale Belge,Charleroi,Belgium,EMEA,Medium,2
+10351,S18_3856,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,2
+10373,S18_3856,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,6
+10386,S18_3856,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10398,S18_3856,Reims Collectables,Reims,France,EMEA,Medium,17
+10400,S18_3856,The Sharp Gifts Warehouse,San Jose,USA,NA,Large,6
+10415,S18_3856,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Medium,5
+10104,S18_4027,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10117,S18_4027,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,12
+10127,S18_4027,Muscle Machine Inc,NYC,USA,NA,Medium,5
+10142,S18_4027,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,15
+10152,S18_4027,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Medium,1
+10165,S18_4027,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,6
+10176,S18_4027,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,5
+10185,S18_4027,Mini Creations Ltd.,New Bedford,USA,NA,Medium,16
+10196,S18_4027,Super Scale Inc.,New Haven,USA,NA,Medium,8
+10207,S18_4027,Diecast Collectables,Boston,USA,NA,Medium,1
+10220,S18_4027,"Clover Collections, Co.",Dublin,Ireland,EMEA,Large,5
+10230,S18_4027,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Large,3
+10247,S18_4027,Suominen Souveniers,Espoo,Finland,EMEA,Medium,5
+10272,S18_4027,Diecast Classics Inc.,Allentown,USA,NA,Medium,5
+10282,S18_4027,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,8
+10292,S18_4027,Land of Toys Inc.,NYC,USA,NA,Large,2
+10306,S18_4027,"AV Stores, Co.",Manchester,UK,EMEA,Medium,16
+10314,S18_4027,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,8
+10324,S18_4027,Vitachrome Inc.,NYC,USA,NA,Medium,13
+10337,S18_4027,Classic Legends Inc.,NYC,USA,NA,Medium,3
+10349,S18_4027,Muscle Machine Inc,NYC,USA,NA,Medium,5
+10358,S18_4027,Euro Shopping Channel,Madrid,Spain,EMEA,Small,13
+10372,S18_4027,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Large,6
+10383,S18_4027,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10394,S18_4027,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10413,S18_4027,Gift Depot Inc.,Bridgewater,USA,NA,Medium,5
+10100,S18_4409,Online Diecast Creations Co.,Nashua,USA,NA,Small,4
+10110,S18_4409,"AV Stores, Co.",Manchester,UK,EMEA,Small,8
+10124,S18_4409,Signal Gift Stores,Las Vegas,USA,NA,Medium,7
+10148,S18_4409,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,1
+10162,S18_4409,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,10
+10173,S18_4409,Rovelli Gifts,Bergamo,Italy,EMEA,Small,14
+10182,S18_4409,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,11
+10193,S18_4409,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,15
+10204,S18_4409,Muscle Machine Inc,NYC,USA,NA,Small,5
+10213,S18_4409,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Medium,1
+10227,S18_4409,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,11
+10241,S18_4409,Mini Caravy,Strasbourg,France,EMEA,Medium,3
+10280,S18_4409,Amica Models & Co.,Torino,Italy,EMEA,Medium,17
+10288,S18_4409,Handji Gifts& Co,Singapore,Singapore,APAC,Small,6
+10302,S18_4409,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,2
+10311,S18_4409,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10332,S18_4409,"AV Stores, Co.",Manchester,UK,EMEA,Large,2
+10344,S18_4409,Marseille Mini Autos,Marseille,France,EMEA,Small,4
+10367,S18_4409,Toys4GrownUps.com,Pasadena,USA,NA,Small,8
+10380,S18_4409,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10407,S18_4409,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,3
+10420,S18_4409,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,6
+10105,S18_4522,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,10
+10117,S18_4522,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,4
+10128,S18_4522,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10142,S18_4522,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,7
+10153,S18_4522,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10166,S18_4522,FunGiftIdeas.com,New Bedford,USA,NA,Small,1
+10177,S18_4522,CAF Imports,Madrid,Spain,EMEA,Small,8
+10185,S18_4522,Mini Creations Ltd.,New Bedford,USA,NA,Medium,8
+10197,S18_4522,Enaco Distributors,Barcelona,Spain,EMEA,Medium,14
+10208,S18_4522,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,8
+10221,S18_4522,Petit Auto,Bruxelles,Belgium,EMEA,Medium,2
+10232,S18_4522,giftsbymail.co.uk,Cowes,UK,EMEA,Small,5
+10248,S18_4522,Land of Toys Inc.,NYC,USA,NA,Medium,11
+10261,S18_4522,Quebec Home Shopping Network,Montreal,Canada,NA,Small,9
+10273,S18_4522,Petit Auto,Bruxelles,Belgium,EMEA,Small,12
+10283,S18_4522,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Medium,14
+10293,S18_4522,Amica Models & Co.,Torino,Italy,EMEA,Medium,3
+10306,S18_4522,"AV Stores, Co.",Manchester,UK,EMEA,Medium,8
+10315,S18_4522,La Rochelle Gifts,Nantes,France,EMEA,Medium,7
+10326,S18_4522,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,5
+10337,S18_4522,Classic Legends Inc.,NYC,USA,NA,Medium,2
+10350,S18_4522,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10372,S18_4522,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,7
+10383,S18_4522,Euro Shopping Channel,Madrid,Spain,EMEA,Small,7
+10396,S18_4522,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,5
+10414,S18_4522,Gifts4AllAges.com,Boston,USA,NA,Small,11
+10103,S18_4600,Baane Mini Imports,Stavern,Norway,EMEA,Medium,5
+10114,S18_4600,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,9
+10126,S18_4600,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Large,5
+10140,S18_4600,Technics Stores Inc.,Burlingame,USA,NA,Medium,5
+10150,S18_4600,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,2
+10164,S18_4600,Mini Auto Werke,Graz,Austria,EMEA,Medium,3
+10175,S18_4600,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,10
+10183,S18_4600,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,2
+10194,S18_4600,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,5
+10207,S18_4600,Diecast Collectables,Boston,USA,NA,Medium,16
+10217,S18_4600,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,5
+10229,S18_4600,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,10
+10245,S18_4600,Super Scale Inc.,New Haven,USA,NA,Small,3
+10259,S18_4600,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,13
+10270,S18_4600,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,3
+10281,S18_4600,Diecast Classics Inc.,Allentown,USA,NA,Small,10
+10291,S18_4600,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,5
+10305,S18_4600,Marta's Replicas Co.,Cambridge,USA,NA,Small,14
+10313,S18_4600,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,8
+10323,S18_4600,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,1
+10334,S18_4600,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,4
+10347,S18_4600,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,4
+10357,S18_4600,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,2
+10370,S18_4600,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,6
+10382,S18_4600,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,1
+10411,S18_4600,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,3
+10425,S18_4600,La Rochelle Gifts,Nantes,France,EMEA,Medium,13
+10103,S18_4668,Baane Mini Imports,Stavern,Norway,EMEA,Small,9
+10113,S18_4668,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,3
+10126,S18_4668,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,9
+10140,S18_4668,Technics Stores Inc.,Burlingame,USA,NA,Small,9
+10150,S18_4668,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,6
+10164,S18_4668,Mini Auto Werke,Graz,Austria,EMEA,Small,7
+10174,S18_4668,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Small,2
+10183,S18_4668,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,6
+10194,S18_4668,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,9
+10206,S18_4668,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,4
+10215,S18_4668,West Coast Collectables Co.,Burbank,USA,NA,Small,1
+10229,S18_4668,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,14
+10245,S18_4668,Super Scale Inc.,New Haven,USA,NA,Small,7
+10258,S18_4668,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,4
+10270,S18_4668,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,7
+10281,S18_4668,Diecast Classics Inc.,Allentown,USA,NA,Small,14
+10291,S18_4668,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,9
+10304,S18_4668,Auto Assoc. & Cie.,Versailles,France,EMEA,Small,4
+10312,S18_4668,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,1
+10324,S18_4668,Vitachrome Inc.,NYC,USA,NA,Medium,6
+10333,S18_4668,Mini Wheels Co.,San Francisco,USA,NA,Small,8
+10348,S18_4668,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Large,6
+10358,S18_4668,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,8
+10370,S18_4668,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,2
+10382,S18_4668,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Large,2
+10411,S18_4668,Quebec Home Shopping Network,Montreal,Canada,NA,Small,7
+10424,S18_4668,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10108,S18_4721,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,11
+10122,S18_4721,Marseille Mini Autos,Marseille,France,EMEA,Medium,15
+10135,S18_4721,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,12
+10146,S18_4721,Gift Ideas Corp.,Glendale,USA,NA,Medium,1
+10159,S18_4721,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,7
+10169,S18_4721,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,7
+10180,S18_4721,Daedalus Designs Imports,Lille,France,EMEA,Medium,2
+10191,S18_4721,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,8
+10211,S18_4721,Auto Canal Petit,Paris,France,EMEA,Medium,7
+10225,S18_4721,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,14
+10238,S18_4721,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,8
+10252,S18_4721,Auto Canal Petit,Paris,France,EMEA,Medium,4
+10264,S18_4721,Gifts4AllAges.com,Boston,USA,NA,Small,2
+10276,S18_4721,Online Mini Collectables,Brickhaven,USA,NA,Medium,8
+10287,S18_4721,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,17
+10299,S18_4721,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Large,2
+10310,S18_4721,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,15
+10319,S18_4721,Microscale Inc.,NYC,USA,NA,Large,3
+10330,S18_4721,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,4
+10342,S18_4721,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,11
+10355,S18_4721,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10363,S18_4721,Suominen Souveniers,Espoo,Finland,EMEA,Small,13
+10378,S18_4721,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,8
+10390,S18_4721,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,3
+10110,S18_4933,"AV Stores, Co.",Manchester,UK,EMEA,Small,9
+10124,S18_4933,Signal Gift Stores,Las Vegas,USA,NA,Small,8
+10148,S18_4933,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,2
+10161,S18_4933,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,1
+10173,S18_4933,Rovelli Gifts,Bergamo,Italy,EMEA,Small,15
+10182,S18_4933,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,12
+10193,S18_4933,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,16
+10204,S18_4933,Muscle Machine Inc,NYC,USA,NA,Medium,6
+10213,S18_4933,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Small,2
+10227,S18_4933,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,12
+10241,S18_4933,Mini Caravy,Strasbourg,France,EMEA,Small,4
+10267,S18_4933,Muscle Machine Inc,NYC,USA,NA,Small,1
+10279,S18_4933,Euro Shopping Channel,Madrid,Spain,EMEA,Small,1
+10288,S18_4933,Handji Gifts& Co,Singapore,Singapore,APAC,Small,7
+10302,S18_4933,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,3
+10311,S18_4933,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10332,S18_4933,"AV Stores, Co.",Manchester,UK,EMEA,Medium,3
+10344,S18_4933,Marseille Mini Autos,Marseille,France,EMEA,Small,5
+10367,S18_4933,Toys4GrownUps.com,Pasadena,USA,NA,Medium,9
+10380,S18_4933,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10407,S18_4933,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,4
+10420,S18_4933,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,7
+10110,S24_1046,"AV Stores, Co.",Manchester,UK,EMEA,Medium,13
+10124,S24_1046,Signal Gift Stores,Las Vegas,USA,NA,Small,12
+10148,S24_1046,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,6
+10161,S24_1046,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,5
+10172,S24_1046,Gift Depot Inc.,Bridgewater,USA,NA,Small,3
+10182,S24_1046,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,16
+10192,S24_1046,Online Diecast Creations Co.,Nashua,USA,NA,Small,4
+10204,S24_1046,Muscle Machine Inc,NYC,USA,NA,Small,10
+10212,S24_1046,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10226,S24_1046,Collectable Mini Designs Co.,San Diego,USA,NA,Small,1
+10241,S24_1046,Mini Caravy,Strasbourg,France,EMEA,Small,8
+10267,S24_1046,Muscle Machine Inc,NYC,USA,NA,Medium,5
+10279,S24_1046,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10288,S24_1046,Handji Gifts& Co,Singapore,Singapore,APAC,Small,11
+10301,S24_1046,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,1
+10311,S24_1046,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10321,S24_1046,FunGiftIdeas.com,New Bedford,USA,NA,Small,3
+10332,S24_1046,"AV Stores, Co.",Manchester,UK,EMEA,Small,4
+10344,S24_1046,Marseille Mini Autos,Marseille,France,EMEA,Small,7
+10367,S24_1046,Toys4GrownUps.com,Pasadena,USA,NA,Small,10
+10380,S24_1046,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10407,S24_1046,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,8
+10420,S24_1046,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,11
+10104,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10115,S24_1444,Classic Legends Inc.,NYC,USA,NA,Medium,2
+10127,S24_1444,Muscle Machine Inc,NYC,USA,NA,Small,8
+10141,S24_1444,Suominen Souveniers,Espoo,Finland,EMEA,Small,2
+10152,S24_1444,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Small,4
+10165,S24_1444,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,9
+10176,S24_1444,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,8
+10184,S24_1444,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Small,3
+10195,S24_1444,Mini Classics,White Plains,USA,NA,Small,3
+10207,S24_1444,Diecast Collectables,Boston,USA,NA,Small,4
+10220,S24_1444,"Clover Collections, Co.",Dublin,Ireland,EMEA,Small,8
+10230,S24_1444,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Small,6
+10246,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10259,S24_1444,Handji Gifts& Co,Singapore,Singapore,APAC,Small,1
+10271,S24_1444,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,2
+10282,S24_1444,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,11
+10292,S24_1444,Land of Toys Inc.,NYC,USA,NA,Small,5
+10305,S24_1444,Marta's Replicas Co.,Cambridge,USA,NA,Small,2
+10314,S24_1444,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,11
+10324,S24_1444,Vitachrome Inc.,NYC,USA,NA,Small,14
+10336,S24_1444,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,4
+10349,S24_1444,Muscle Machine Inc,NYC,USA,NA,Small,4
+10358,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Small,14
+10371,S24_1444,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,12
+10383,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10394,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10412,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10425,S24_1444,La Rochelle Gifts,Nantes,France,EMEA,Small,1
+10107,S24_1578,Land of Toys Inc.,NYC,USA,NA,Small,3
+10120,S24_1578,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,1
+10134,S24_1578,Lyon Souveniers,Paris,France,EMEA,Medium,3
+10145,S24_1578,Toys4GrownUps.com,Pasadena,USA,NA,Medium,7
+10159,S24_1578,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,15
+10168,S24_1578,Technics Stores Inc.,Burlingame,USA,NA,Medium,2
+10180,S24_1578,Daedalus Designs Imports,Lille,France,EMEA,Medium,10
+10188,S24_1578,Herkku Gifts,Bergen,Norway,EMEA,Small,2
+10201,S24_1578,Mini Wheels Co.,San Francisco,USA,NA,Medium,3
+10211,S24_1578,Auto Canal Petit,Paris,France,EMEA,Small,15
+10223,S24_1578,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,2
+10237,S24_1578,Vitachrome Inc.,NYC,USA,NA,Small,8
+10251,S24_1578,Tekni Collectables Inc.,Newark,USA,NA,Small,3
+10263,S24_1578,Gift Depot Inc.,Bridgewater,USA,NA,Medium,3
+10275,S24_1578,La Rochelle Gifts,Nantes,France,EMEA,Small,2
+10285,S24_1578,Marta's Replicas Co.,Cambridge,USA,NA,Medium,7
+10299,S24_1578,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,10
+10309,S24_1578,Baane Mini Imports,Stavern,Norway,EMEA,Small,6
+10318,S24_1578,Diecast Classics Inc.,Allentown,USA,NA,Medium,2
+10329,S24_1578,Land of Toys Inc.,NYC,USA,NA,Small,7
+10339,S24_1578,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,10
+10362,S24_1578,Technics Stores Inc.,Burlingame,USA,NA,Medium,2
+10374,S24_1578,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Medium,6
+10389,S24_1578,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,1
+10403,S24_1578,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,8
+10417,S24_1578,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10110,S24_1628,"AV Stores, Co.",Manchester,UK,EMEA,Small,15
+10123,S24_1628,Atelier graphique,Nantes,France,EMEA,Small,1
+10137,S24_1628,Reims Collectables,Reims,France,EMEA,Small,1
+10148,S24_1628,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,8
+10161,S24_1628,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,7
+10172,S24_1628,Gift Depot Inc.,Bridgewater,USA,NA,Small,5
+10181,S24_1628,Herkku Gifts,Bergen,Norway,EMEA,Small,1
+10192,S24_1628,Online Diecast Creations Co.,Nashua,USA,NA,Small,6
+10204,S24_1628,Muscle Machine Inc,NYC,USA,NA,Small,12
+10212,S24_1628,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10226,S24_1628,Collectable Mini Designs Co.,San Diego,USA,NA,Small,3
+10241,S24_1628,Mini Caravy,Strasbourg,France,EMEA,Small,10
+10266,S24_1628,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,1
+10278,S24_1628,Signal Gift Stores,Las Vegas,USA,NA,Small,1
+10288,S24_1628,Handji Gifts& Co,Singapore,Singapore,APAC,Small,13
+10301,S24_1628,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,3
+10311,S24_1628,Euro Shopping Channel,Madrid,Spain,EMEA,Small,8
+10321,S24_1628,FunGiftIdeas.com,New Bedford,USA,NA,Small,5
+10332,S24_1628,"AV Stores, Co.",Manchester,UK,EMEA,Small,5
+10343,S24_1628,Reims Collectables,Reims,France,EMEA,Small,6
+10367,S24_1628,Toys4GrownUps.com,Pasadena,USA,NA,Small,11
+10379,S24_1628,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10407,S24_1628,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,10
+10420,S24_1628,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,13
+10106,S24_1785,Rovelli Gifts,Bergamo,Italy,EMEA,Small,4
+10120,S24_1785,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,10
+10133,S24_1785,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10145,S24_1785,Toys4GrownUps.com,Pasadena,USA,NA,Medium,16
+10168,S24_1785,Technics Stores Inc.,Burlingame,USA,NA,Medium,11
+10210,S24_1785,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,9
+10223,S24_1785,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,11
+10235,S24_1785,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,5
+10250,S24_1785,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,6
+10262,S24_1785,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10275,S24_1785,La Rochelle Gifts,Nantes,France,EMEA,Small,11
+10284,S24_1785,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,3
+10297,S24_1785,"Clover Collections, Co.",Dublin,Ireland,EMEA,Medium,6
+10308,S24_1785,Mini Classics,White Plains,USA,NA,Medium,9
+10316,S24_1785,giftsbymail.co.uk,Cowes,UK,EMEA,Small,1
+10328,S24_1785,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,14
+10339,S24_1785,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,7
+10353,S24_1785,Gift Ideas Corp.,Glendale,USA,NA,Small,2
+10374,S24_1785,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Medium,3
+10386,S24_1785,Euro Shopping Channel,Madrid,Spain,EMEA,Small,11
+10398,S24_1785,Reims Collectables,Reims,France,EMEA,Medium,16
+10401,S24_1785,Tekni Collectables Inc.,Newark,USA,NA,Medium,5
+10416,S24_1785,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,6
+10101,S24_1937,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Small,3
+10110,S24_1937,"AV Stores, Co.",Manchester,UK,EMEA,Small,3
+10124,S24_1937,Signal Gift Stores,Las Vegas,USA,NA,Small,2
+10149,S24_1937,Signal Collectibles Ltd.,Brisbane,USA,NA,Small,7
+10162,S24_1937,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,5
+10173,S24_1937,Rovelli Gifts,Bergamo,Italy,EMEA,Small,9
+10182,S24_1937,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,6
+10193,S24_1937,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,10
+10205,S24_1937,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10214,S24_1937,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,3
+10227,S24_1937,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,6
+10243,S24_1937,Diecast Collectables,Boston,USA,NA,Small,1
+10280,S24_1937,Amica Models & Co.,Torino,Italy,EMEA,Small,12
+10288,S24_1937,Handji Gifts& Co,Singapore,Singapore,APAC,Small,1
+10304,S24_1937,Auto Assoc. & Cie.,Versailles,France,EMEA,Small,16
+10312,S24_1937,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,13
+10322,S24_1937,Online Diecast Creations Co.,Nashua,USA,NA,Small,3
+10332,S24_1937,"AV Stores, Co.",Manchester,UK,EMEA,Medium,6
+10344,S24_1937,Marseille Mini Autos,Marseille,France,EMEA,Small,6
+10356,S24_1937,Lyon Souveniers,Paris,France,EMEA,Large,5
+10367,S24_1937,Toys4GrownUps.com,Pasadena,USA,NA,Small,13
+10380,S24_1937,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10391,S24_1937,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Large,8
+10409,S24_1937,Handji Gifts& Co,Singapore,Singapore,APAC,Small,1
+10420,S24_1937,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,1
+10107,S24_2000,Land of Toys Inc.,NYC,USA,NA,Medium,7
+10120,S24_2000,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,5
+10134,S24_2000,Lyon Souveniers,Paris,France,EMEA,Medium,7
+10145,S24_2000,Toys4GrownUps.com,Pasadena,USA,NA,Medium,11
+10158,S24_2000,Baane Mini Imports,Stavern,Norway,EMEA,Small,1
+10168,S24_2000,Technics Stores Inc.,Burlingame,USA,NA,Small,6
+10180,S24_2000,Daedalus Designs Imports,Lille,France,EMEA,Small,14
+10188,S24_2000,Herkku Gifts,Bergen,Norway,EMEA,Medium,6
+10201,S24_2000,Mini Wheels Co.,San Francisco,USA,NA,Small,7
+10210,S24_2000,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,4
+10223,S24_2000,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,6
+10236,S24_2000,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,3
+10250,S24_2000,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,1
+10263,S24_2000,Gift Depot Inc.,Bridgewater,USA,NA,Small,7
+10275,S24_2000,La Rochelle Gifts,Nantes,France,EMEA,Small,6
+10285,S24_2000,Marta's Replicas Co.,Cambridge,USA,NA,Small,11
+10297,S24_2000,"Clover Collections, Co.",Dublin,Ireland,EMEA,Small,1
+10308,S24_2000,Mini Classics,White Plains,USA,NA,Small,4
+10318,S24_2000,Diecast Classics Inc.,Allentown,USA,NA,Small,6
+10329,S24_2000,Land of Toys Inc.,NYC,USA,NA,Medium,4
+10340,S24_2000,Enaco Distributors,Barcelona,Spain,EMEA,Medium,8
+10363,S24_2000,Suominen Souveniers,Espoo,Finland,EMEA,Medium,8
+10375,S24_2000,La Rochelle Gifts,Nantes,France,EMEA,Small,9
+10389,S24_2000,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,2
+10402,S24_2000,Auto Canal Petit,Paris,France,EMEA,Medium,3
+10416,S24_2000,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,1
+10105,S24_2011,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,9
+10117,S24_2011,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,3
+10129,S24_2011,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,9
+10142,S24_2011,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,6
+10153,S24_2011,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10167,S24_2011,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,16
+10177,S24_2011,CAF Imports,Madrid,Spain,EMEA,Medium,7
+10185,S24_2011,Mini Creations Ltd.,New Bedford,USA,NA,Medium,7
+10197,S24_2011,Enaco Distributors,Barcelona,Spain,EMEA,Medium,13
+10208,S24_2011,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,7
+10221,S24_2011,Petit Auto,Bruxelles,Belgium,EMEA,Medium,1
+10232,S24_2011,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,4
+10248,S24_2011,Land of Toys Inc.,NYC,USA,NA,Medium,10
+10261,S24_2011,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,8
+10273,S24_2011,Petit Auto,Bruxelles,Belgium,EMEA,Small,11
+10283,S24_2011,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Medium,13
+10293,S24_2011,Amica Models & Co.,Torino,Italy,EMEA,Small,2
+10306,S24_2011,"AV Stores, Co.",Manchester,UK,EMEA,Medium,7
+10315,S24_2011,La Rochelle Gifts,Nantes,France,EMEA,Medium,6
+10326,S24_2011,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,4
+10337,S24_2011,Classic Legends Inc.,NYC,USA,NA,Small,4
+10350,S24_2011,Euro Shopping Channel,Madrid,Spain,EMEA,Small,7
+10372,S24_2011,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,8
+10384,S24_2011,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,3
+10396,S24_2011,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,6
+10414,S24_2011,Gifts4AllAges.com,Boston,USA,NA,Medium,10
+10101,S24_2022,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Small,2
+10110,S24_2022,"AV Stores, Co.",Manchester,UK,EMEA,Small,2
+10124,S24_2022,Signal Gift Stores,Las Vegas,USA,NA,Small,1
+10149,S24_2022,Signal Collectibles Ltd.,Brisbane,USA,NA,Small,6
+10162,S24_2022,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,4
+10173,S24_2022,Rovelli Gifts,Bergamo,Italy,EMEA,Small,8
+10182,S24_2022,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,5
+10193,S24_2022,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,9
+10205,S24_2022,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10214,S24_2022,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,2
+10227,S24_2022,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,5
+10244,S24_2022,Euro Shopping Channel,Madrid,Spain,EMEA,Small,9
+10255,S24_2022,Mini Caravy,Strasbourg,France,EMEA,Small,2
+10280,S24_2022,Amica Models & Co.,Torino,Italy,EMEA,Small,11
+10289,S24_2022,Herkku Gifts,Bergen,Norway,EMEA,Small,4
+10304,S24_2022,Auto Assoc. & Cie.,Versailles,France,EMEA,Small,15
+10312,S24_2022,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,12
+10322,S24_2022,Online Diecast Creations Co.,Nashua,USA,NA,Medium,4
+10332,S24_2022,"AV Stores, Co.",Manchester,UK,EMEA,Small,10
+10345,S24_2022,Atelier graphique,Nantes,France,EMEA,Small,1
+10356,S24_2022,Lyon Souveniers,Paris,France,EMEA,Small,7
+10367,S24_2022,Toys4GrownUps.com,Pasadena,USA,NA,Small,12
+10380,S24_2022,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10391,S24_2022,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,1
+10421,S24_2022,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,2
+10103,S24_2300,Baane Mini Imports,Stavern,Norway,EMEA,Medium,1
+10114,S24_2300,"La Corne D'abondance, Co.",Paris,France,EMEA,Small,5
+10126,S24_2300,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,1
+10140,S24_2300,Technics Stores Inc.,Burlingame,USA,NA,Medium,1
+10151,S24_2300,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,8
+10165,S24_2300,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,17
+10175,S24_2300,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,6
+10184,S24_2300,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Medium,11
+10194,S24_2300,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,1
+10207,S24_2300,Diecast Collectables,Boston,USA,NA,Medium,12
+10217,S24_2300,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,1
+10229,S24_2300,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,6
+10246,S24_2300,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,10
+10259,S24_2300,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,9
+10271,S24_2300,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,10
+10281,S24_2300,Diecast Classics Inc.,Allentown,USA,NA,Small,6
+10291,S24_2300,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,1
+10305,S24_2300,Marta's Replicas Co.,Cambridge,USA,NA,Medium,10
+10313,S24_2300,Canadian Gift Exchange Network,Vancouver,Canada,NA,Medium,4
+10324,S24_2300,Vitachrome Inc.,NYC,USA,NA,Medium,2
+10334,S24_2300,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,5
+10348,S24_2300,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,1
+10358,S24_2300,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,7
+10371,S24_2300,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,5
+10382,S24_2300,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,3
+10412,S24_2300,Euro Shopping Channel,Madrid,Spain,EMEA,Large,10
+10425,S24_2300,La Rochelle Gifts,Nantes,France,EMEA,Medium,9
+10108,S24_2360,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,15
+10121,S24_2360,Reims Collectables,Reims,France,EMEA,Small,2
+10135,S24_2360,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,16
+10145,S24_2360,Toys4GrownUps.com,Pasadena,USA,NA,Small,3
+10159,S24_2360,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,11
+10169,S24_2360,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,11
+10180,S24_2360,Daedalus Designs Imports,Lille,France,EMEA,Small,6
+10190,S24_2360,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10211,S24_2360,Auto Canal Petit,Paris,France,EMEA,Small,11
+10224,S24_2360,Daedalus Designs Imports,Lille,France,EMEA,Small,4
+10237,S24_2360,Vitachrome Inc.,NYC,USA,NA,Small,4
+10252,S24_2360,Auto Canal Petit,Paris,France,EMEA,Medium,8
+10264,S24_2360,Gifts4AllAges.com,Boston,USA,NA,Small,6
+10276,S24_2360,Online Mini Collectables,Brickhaven,USA,NA,Medium,12
+10285,S24_2360,Marta's Replicas Co.,Cambridge,USA,NA,Small,3
+10299,S24_2360,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,6
+10309,S24_2360,Baane Mini Imports,Stavern,Norway,EMEA,Small,2
+10319,S24_2360,Microscale Inc.,NYC,USA,NA,Small,7
+10330,S24_2360,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,1
+10341,S24_2360,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,6
+10355,S24_2360,Euro Shopping Channel,Madrid,Spain,EMEA,Small,3
+10363,S24_2360,Suominen Souveniers,Espoo,Finland,EMEA,Small,14
+10375,S24_2360,La Rochelle Gifts,Nantes,France,EMEA,Small,14
+10390,S24_2360,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,4
+10403,S24_2360,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,4
+10110,S24_2766,"AV Stores, Co.",Manchester,UK,EMEA,Medium,11
+10124,S24_2766,Signal Gift Stores,Las Vegas,USA,NA,Small,10
+10148,S24_2766,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,4
+10161,S24_2766,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,3
+10172,S24_2766,Gift Depot Inc.,Bridgewater,USA,NA,Small,1
+10182,S24_2766,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,14
+10192,S24_2766,Online Diecast Creations Co.,Nashua,USA,NA,Medium,2
+10204,S24_2766,Muscle Machine Inc,NYC,USA,NA,Medium,8
+10212,S24_2766,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10227,S24_2766,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,14
+10241,S24_2766,Mini Caravy,Strasbourg,France,EMEA,Medium,6
+10267,S24_2766,Muscle Machine Inc,NYC,USA,NA,Medium,3
+10279,S24_2766,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10288,S24_2766,Handji Gifts& Co,Singapore,Singapore,APAC,Small,9
+10302,S24_2766,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,5
+10311,S24_2766,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10321,S24_2766,FunGiftIdeas.com,New Bedford,USA,NA,Small,1
+10332,S24_2766,"AV Stores, Co.",Manchester,UK,EMEA,Medium,7
+10346,S24_2766,Signal Gift Stores,Las Vegas,USA,NA,Small,1
+10368,S24_2766,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,2
+10380,S24_2766,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10407,S24_2766,The Sharp Gifts Warehouse,San Jose,USA,NA,Large,6
+10420,S24_2766,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,9
+10104,S24_2840,Euro Shopping Channel,Madrid,Spain,EMEA,Small,10
+10114,S24_2840,"La Corne D'abondance, Co.",Paris,France,EMEA,Small,1
+10127,S24_2840,Muscle Machine Inc,NYC,USA,NA,Small,12
+10141,S24_2840,Suominen Souveniers,Espoo,Finland,EMEA,Small,6
+10151,S24_2840,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,4
+10165,S24_2840,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,13
+10175,S24_2840,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,2
+10184,S24_2840,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Small,7
+10195,S24_2840,Mini Classics,White Plains,USA,NA,Small,7
+10207,S24_2840,Diecast Collectables,Boston,USA,NA,Small,8
+10219,S24_2840,Signal Collectibles Ltd.,Brisbane,USA,NA,Small,3
+10229,S24_2840,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,2
+10246,S24_2840,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10259,S24_2840,Handji Gifts& Co,Singapore,Singapore,APAC,Small,5
+10271,S24_2840,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,6
+10281,S24_2840,Diecast Classics Inc.,Allentown,USA,NA,Small,2
+10292,S24_2840,Land of Toys Inc.,NYC,USA,NA,Small,9
+10305,S24_2840,Marta's Replicas Co.,Cambridge,USA,NA,Small,6
+10314,S24_2840,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,15
+10324,S24_2840,Vitachrome Inc.,NYC,USA,NA,Medium,9
+10335,S24_2840,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,2
+10349,S24_2840,Muscle Machine Inc,NYC,USA,NA,Small,3
+10358,S24_2840,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10371,S24_2840,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,8
+10383,S24_2840,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10394,S24_2840,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10412,S24_2840,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10425,S24_2840,La Rochelle Gifts,Nantes,France,EMEA,Small,5
+10106,S24_2841,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,13
+10119,S24_2841,Salzburg Collectables,Salzburg,Austria,EMEA,Small,4
+10131,S24_2841,Gift Ideas Corp.,Glendale,USA,NA,Small,5
+10143,S24_2841,Mini Creations Ltd.,New Bedford,USA,NA,Small,8
+10155,S24_2841,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,6
+10167,S24_2841,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,2
+10178,S24_2841,Alpha Cognac,Toulouse,France,EMEA,Small,5
+10186,S24_2841,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Small,2
+10198,S24_2841,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,5
+10209,S24_2841,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Medium,1
+10222,S24_2841,Collectable Mini Designs Co.,San Diego,USA,NA,Small,5
+10249,S24_2841,Cambridge Collectables Co.,Cambridge,USA,NA,Small,1
+10262,S24_2841,Euro Shopping Channel,Madrid,Spain,EMEA,Small,10
+10274,S24_2841,Collectables For Less Inc.,Brickhaven,USA,NA,Small,2
+10284,S24_2841,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,12
+10296,S24_2841,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Small,8
+10307,S24_2841,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,2
+10316,S24_2841,giftsbymail.co.uk,Cowes,UK,EMEA,Small,10
+10328,S24_2841,Rovelli Gifts,Bergamo,Italy,EMEA,Small,1
+10339,S24_2841,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,12
+10351,S24_2841,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,5
+10373,S24_2841,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,7
+10386,S24_2841,Euro Shopping Channel,Madrid,Spain,EMEA,Small,1
+10398,S24_2841,Reims Collectables,Reims,France,EMEA,Small,3
+10400,S24_2841,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,2
+10415,S24_2841,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,1
+10110,S24_2887,"AV Stores, Co.",Manchester,UK,EMEA,Medium,10
+10124,S24_2887,Signal Gift Stores,Las Vegas,USA,NA,Small,9
+10148,S24_2887,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,3
+10161,S24_2887,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,2
+10173,S24_2887,Rovelli Gifts,Bergamo,Italy,EMEA,Small,16
+10182,S24_2887,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,13
+10192,S24_2887,Online Diecast Creations Co.,Nashua,USA,NA,Medium,1
+10204,S24_2887,Muscle Machine Inc,NYC,USA,NA,Medium,7
+10213,S24_2887,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Small,3
+10227,S24_2887,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,13
+10241,S24_2887,Mini Caravy,Strasbourg,France,EMEA,Small,5
+10267,S24_2887,Muscle Machine Inc,NYC,USA,NA,Medium,2
+10279,S24_2887,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10288,S24_2887,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,8
+10302,S24_2887,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,4
+10311,S24_2887,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10332,S24_2887,"AV Stores, Co.",Manchester,UK,EMEA,Small,11
+10346,S24_2887,Signal Gift Stores,Las Vegas,USA,NA,Small,5
+10368,S24_2887,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,5
+10380,S24_2887,Euro Shopping Channel,Madrid,Spain,EMEA,Small,7
+10407,S24_2887,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,5
+10420,S24_2887,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,8
+10109,S24_2972,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Small,6
+10122,S24_2972,Marseille Mini Autos,Marseille,France,EMEA,Small,4
+10135,S24_2972,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,1
+10147,S24_2972,Collectables For Less Inc.,Brickhaven,USA,NA,Small,1
+10160,S24_2972,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Small,2
+10171,S24_2972,Quebec Home Shopping Network,Montreal,Canada,NA,Small,4
+10181,S24_2972,Herkku Gifts,Bergen,Norway,EMEA,Small,8
+10192,S24_2972,Online Diecast Creations Co.,Nashua,USA,NA,Small,13
+10203,S24_2972,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10212,S24_2972,Euro Shopping Channel,Madrid,Spain,EMEA,Small,12
+10225,S24_2972,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Small,3
+10239,S24_2972,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,2
+10253,S24_2972,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,7
+10266,S24_2972,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,8
+10278,S24_2972,Signal Gift Stores,Las Vegas,USA,NA,Small,8
+10287,S24_2972,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Small,6
+10301,S24_2972,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,10
+10310,S24_2972,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Small,4
+10321,S24_2972,FunGiftIdeas.com,New Bedford,USA,NA,Small,12
+10331,S24_2972,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Small,13
+10342,S24_2972,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,9
+10355,S24_2972,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10367,S24_2972,Toys4GrownUps.com,Pasadena,USA,NA,Medium,2
+10378,S24_2972,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,7
+10390,S24_2972,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,5
+10405,S24_2972,Mini Caravy,Strasbourg,France,EMEA,Small,2
+10419,S24_2972,Salzburg Collectables,Salzburg,Austria,EMEA,Small,7
+10105,S24_3151,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,4
+10119,S24_3151,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,13
+10129,S24_3151,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,4
+10142,S24_3151,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,1
+10154,S24_3151,Boards & Toys Co.,Glendale,USA,NA,Small,2
+10167,S24_3151,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,11
+10177,S24_3151,CAF Imports,Madrid,Spain,EMEA,Medium,2
+10185,S24_3151,Mini Creations Ltd.,New Bedford,USA,NA,Small,2
+10197,S24_3151,Enaco Distributors,Barcelona,Spain,EMEA,Medium,8
+10208,S24_3151,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,2
+10222,S24_3151,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,14
+10233,S24_3151,Tekni Collectables Inc.,Newark,USA,NA,Medium,2
+10248,S24_3151,Land of Toys Inc.,NYC,USA,NA,Medium,5
+10261,S24_3151,Quebec Home Shopping Network,Montreal,Canada,NA,Small,3
+10273,S24_3151,Petit Auto,Bruxelles,Belgium,EMEA,Small,6
+10283,S24_3151,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Medium,8
+10295,S24_3151,Gifts4AllAges.com,Boston,USA,NA,Medium,3
+10306,S24_3151,"AV Stores, Co.",Manchester,UK,EMEA,Small,2
+10315,S24_3151,La Rochelle Gifts,Nantes,France,EMEA,Small,1
+10326,S24_3151,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Medium,3
+10339,S24_3151,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Large,13
+10350,S24_3151,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,9
+10373,S24_3151,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,12
+10384,S24_3151,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,2
+10396,S24_3151,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,7
+10414,S24_3151,Gifts4AllAges.com,Boston,USA,NA,Medium,5
+10110,S24_3191,"AV Stores, Co.",Manchester,UK,EMEA,Small,12
+10124,S24_3191,Signal Gift Stores,Las Vegas,USA,NA,Medium,11
+10148,S24_3191,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,5
+10161,S24_3191,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,4
+10172,S24_3191,Gift Depot Inc.,Bridgewater,USA,NA,Small,2
+10182,S24_3191,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,15
+10192,S24_3191,Online Diecast Creations Co.,Nashua,USA,NA,Small,3
+10204,S24_3191,Muscle Machine Inc,NYC,USA,NA,Medium,9
+10212,S24_3191,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10227,S24_3191,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,15
+10241,S24_3191,Mini Caravy,Strasbourg,France,EMEA,Small,7
+10267,S24_3191,Muscle Machine Inc,NYC,USA,NA,Medium,4
+10279,S24_3191,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10288,S24_3191,Handji Gifts& Co,Singapore,Singapore,APAC,Small,10
+10302,S24_3191,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,6
+10311,S24_3191,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10321,S24_3191,FunGiftIdeas.com,New Bedford,USA,NA,Medium,2
+10332,S24_3191,"AV Stores, Co.",Manchester,UK,EMEA,Small,12
+10346,S24_3191,Signal Gift Stores,Las Vegas,USA,NA,Medium,2
+10368,S24_3191,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,1
+10380,S24_3191,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,9
+10407,S24_3191,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,7
+10420,S24_3191,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,10
+10108,S24_3371,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,5
+10122,S24_3371,Marseille Mini Autos,Marseille,France,EMEA,Small,9
+10135,S24_3371,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,6
+10147,S24_3371,Collectables For Less Inc.,Brickhaven,USA,NA,Small,6
+10159,S24_3371,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,1
+10169,S24_3371,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,1
+10181,S24_3371,Herkku Gifts,Bergen,Norway,EMEA,Small,13
+10191,S24_3371,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Small,2
+10203,S24_3371,Euro Shopping Channel,Madrid,Spain,EMEA,Small,7
+10211,S24_3371,Auto Canal Petit,Paris,France,EMEA,Small,1
+10225,S24_3371,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Small,8
+10238,S24_3371,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,2
+10253,S24_3371,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,12
+10266,S24_3371,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,13
+10276,S24_3371,Online Mini Collectables,Brickhaven,USA,NA,Small,2
+10287,S24_3371,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Small,11
+10300,S24_3371,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Small,4
+10310,S24_3371,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Small,9
+10320,S24_3371,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Small,2
+10331,S24_3371,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,9
+10342,S24_3371,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,10
+10355,S24_3371,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10363,S24_3371,Suominen Souveniers,Espoo,Finland,EMEA,Small,15
+10378,S24_3371,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10390,S24_3371,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,6
+10419,S24_3371,Salzburg Collectables,Salzburg,Austria,EMEA,Small,12
+10106,S24_3420,Rovelli Gifts,Bergamo,Italy,EMEA,Small,14
+10119,S24_3420,Salzburg Collectables,Salzburg,Austria,EMEA,Small,5
+10131,S24_3420,Gift Ideas Corp.,Glendale,USA,NA,Small,6
+10143,S24_3420,Mini Creations Ltd.,New Bedford,USA,NA,Small,9
+10155,S24_3420,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,7
+10167,S24_3420,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,3
+10178,S24_3420,Alpha Cognac,Toulouse,France,EMEA,Small,6
+10186,S24_3420,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Small,3
+10198,S24_3420,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,6
+10209,S24_3420,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Small,2
+10222,S24_3420,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,6
+10249,S24_3420,Cambridge Collectables Co.,Cambridge,USA,NA,Small,2
+10262,S24_3420,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,11
+10274,S24_3420,Collectables For Less Inc.,Brickhaven,USA,NA,Small,3
+10284,S24_3420,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,13
+10296,S24_3420,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Small,9
+10307,S24_3420,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,3
+10316,S24_3420,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,11
+10328,S24_3420,Rovelli Gifts,Bergamo,Italy,EMEA,Small,2
+10339,S24_3420,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,14
+10351,S24_3420,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,4
+10361,S24_3420,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,6
+10373,S24_3420,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,11
+10386,S24_3420,Euro Shopping Channel,Madrid,Spain,EMEA,Small,9
+10398,S24_3420,Reims Collectables,Reims,France,EMEA,Small,13
+10400,S24_3420,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,3
+10415,S24_3420,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,2
+10110,S24_3432,"AV Stores, Co.",Manchester,UK,EMEA,Medium,14
+10124,S24_3432,Signal Gift Stores,Las Vegas,USA,NA,Medium,13
+10148,S24_3432,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,7
+10161,S24_3432,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,6
+10172,S24_3432,Gift Depot Inc.,Bridgewater,USA,NA,Small,4
+10182,S24_3432,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,17
+10192,S24_3432,Online Diecast Creations Co.,Nashua,USA,NA,Medium,5
+10204,S24_3432,Muscle Machine Inc,NYC,USA,NA,Medium,11
+10212,S24_3432,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10226,S24_3432,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,2
+10241,S24_3432,Mini Caravy,Strasbourg,France,EMEA,Small,9
+10267,S24_3432,Muscle Machine Inc,NYC,USA,NA,Medium,6
+10279,S24_3432,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,6
+10288,S24_3432,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,12
+10301,S24_3432,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,2
+10311,S24_3432,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,7
+10321,S24_3432,FunGiftIdeas.com,New Bedford,USA,NA,Small,4
+10332,S24_3432,"AV Stores, Co.",Manchester,UK,EMEA,Small,13
+10346,S24_3432,Signal Gift Stores,Las Vegas,USA,NA,Small,6
+10368,S24_3432,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,4
+10380,S24_3432,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,11
+10407,S24_3432,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,9
+10420,S24_3432,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,12
+10105,S24_3816,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,1
+10119,S24_3816,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,10
+10129,S24_3816,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,1
+10143,S24_3816,Mini Creations Ltd.,New Bedford,USA,NA,Small,14
+10155,S24_3816,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,12
+10167,S24_3816,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,8
+10178,S24_3816,Alpha Cognac,Toulouse,France,EMEA,Small,11
+10186,S24_3816,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Medium,8
+10197,S24_3816,Enaco Distributors,Barcelona,Spain,EMEA,Small,5
+10209,S24_3816,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Small,7
+10222,S24_3816,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,11
+10248,S24_3816,Land of Toys Inc.,NYC,USA,NA,Small,2
+10262,S24_3816,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,16
+10273,S24_3816,Petit Auto,Bruxelles,Belgium,EMEA,Medium,3
+10283,S24_3816,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,5
+10296,S24_3816,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Small,14
+10307,S24_3816,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,8
+10316,S24_3816,giftsbymail.co.uk,Cowes,UK,EMEA,Small,16
+10326,S24_3816,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Small,2
+10339,S24_3816,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,16
+10350,S24_3816,Euro Shopping Channel,Madrid,Spain,EMEA,Small,10
+10373,S24_3816,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,10
+10385,S24_3816,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,2
+10396,S24_3816,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,8
+10400,S24_3816,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,8
+10414,S24_3816,Gifts4AllAges.com,Boston,USA,NA,Medium,2
+10108,S24_3856,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,1
+10122,S24_3856,Marseille Mini Autos,Marseille,France,EMEA,Medium,5
+10135,S24_3856,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,2
+10147,S24_3856,Collectables For Less Inc.,Brickhaven,USA,NA,Small,2
+10160,S24_3856,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Medium,3
+10170,S24_3856,Mini Auto Werke,Graz,Austria,EMEA,Medium,1
+10181,S24_3856,Herkku Gifts,Bergen,Norway,EMEA,Medium,9
+10192,S24_3856,Online Diecast Creations Co.,Nashua,USA,NA,Medium,14
+10203,S24_3856,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10212,S24_3856,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,13
+10225,S24_3856,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,4
+10239,S24_3856,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,3
+10253,S24_3856,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,8
+10266,S24_3856,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,9
+10278,S24_3856,Signal Gift Stores,Las Vegas,USA,NA,Medium,9
+10287,S24_3856,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,7
+10301,S24_3856,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Large,11
+10310,S24_3856,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,5
+10321,S24_3856,FunGiftIdeas.com,New Bedford,USA,NA,Medium,13
+10331,S24_3856,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,1
+10342,S24_3856,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,6
+10355,S24_3856,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,8
+10363,S24_3856,Suominen Souveniers,Espoo,Finland,EMEA,Small,1
+10378,S24_3856,Euro Shopping Channel,Madrid,Spain,EMEA,Small,3
+10390,S24_3856,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,8
+10405,S24_3856,Mini Caravy,Strasbourg,France,EMEA,Large,3
+10419,S24_3856,Salzburg Collectables,Salzburg,Austria,EMEA,Large,8
+10106,S24_3949,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,11
+10119,S24_3949,Salzburg Collectables,Salzburg,Austria,EMEA,Small,2
+10131,S24_3949,Gift Ideas Corp.,Glendale,USA,NA,Medium,3
+10143,S24_3949,Mini Creations Ltd.,New Bedford,USA,NA,Small,6
+10155,S24_3949,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,4
+10168,S24_3949,Technics Stores Inc.,Burlingame,USA,NA,Small,18
+10178,S24_3949,Alpha Cognac,Toulouse,France,EMEA,Small,3
+10198,S24_3949,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,3
+10210,S24_3949,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,16
+10222,S24_3949,Collectable Mini Designs Co.,San Diego,USA,NA,Small,3
+10235,S24_3949,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,12
+10250,S24_3949,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,13
+10262,S24_3949,Euro Shopping Channel,Madrid,Spain,EMEA,Small,8
+10275,S24_3949,La Rochelle Gifts,Nantes,France,EMEA,Medium,18
+10284,S24_3949,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,10
+10296,S24_3949,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Small,6
+10308,S24_3949,Mini Classics,White Plains,USA,NA,Medium,16
+10316,S24_3949,giftsbymail.co.uk,Cowes,UK,EMEA,Small,8
+10328,S24_3949,Rovelli Gifts,Bergamo,Italy,EMEA,Small,3
+10339,S24_3949,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,11
+10351,S24_3949,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,3
+10361,S24_3949,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,7
+10373,S24_3949,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,13
+10386,S24_3949,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,12
+10398,S24_3949,Reims Collectables,Reims,France,EMEA,Small,2
+10401,S24_3949,Tekni Collectables Inc.,Newark,USA,NA,Medium,12
+10416,S24_3949,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,13
+10100,S24_3969,Online Diecast Creations Co.,Nashua,USA,NA,Small,1
+10110,S24_3969,"AV Stores, Co.",Manchester,UK,EMEA,Small,5
+10124,S24_3969,Signal Gift Stores,Las Vegas,USA,NA,Small,4
+10149,S24_3969,Signal Collectibles Ltd.,Brisbane,USA,NA,Small,9
+10162,S24_3969,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,7
+10173,S24_3969,Rovelli Gifts,Bergamo,Italy,EMEA,Small,11
+10182,S24_3969,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,8
+10193,S24_3969,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,12
+10204,S24_3969,Muscle Machine Inc,NYC,USA,NA,Small,2
+10214,S24_3969,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,5
+10227,S24_3969,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,8
+10242,S24_3969,Microscale Inc.,NYC,USA,NA,Small,1
+10280,S24_3969,Amica Models & Co.,Torino,Italy,EMEA,Small,14
+10288,S24_3969,Handji Gifts& Co,Singapore,Singapore,APAC,Small,3
+10303,S24_3969,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Small,1
+10312,S24_3969,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,15
+10332,S24_3969,"AV Stores, Co.",Manchester,UK,EMEA,Medium,14
+10346,S24_3969,Signal Gift Stores,Las Vegas,USA,NA,Small,4
+10368,S24_3969,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,3
+10380,S24_3969,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,12
+10408,S24_3969,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,1
+10420,S24_3969,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,3
+10104,S24_4048,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10115,S24_4048,Classic Legends Inc.,NYC,USA,NA,Medium,1
+10127,S24_4048,Muscle Machine Inc,NYC,USA,NA,Small,7
+10141,S24_4048,Suominen Souveniers,Espoo,Finland,EMEA,Medium,1
+10152,S24_4048,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Small,3
+10165,S24_4048,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,8
+10176,S24_4048,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,7
+10184,S24_4048,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Medium,2
+10195,S24_4048,Mini Classics,White Plains,USA,NA,Medium,2
+10207,S24_4048,Diecast Collectables,Boston,USA,NA,Small,3
+10220,S24_4048,"Clover Collections, Co.",Dublin,Ireland,EMEA,Medium,7
+10230,S24_4048,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,5
+10246,S24_4048,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10271,S24_4048,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,1
+10282,S24_4048,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,10
+10292,S24_4048,Land of Toys Inc.,NYC,USA,NA,Medium,4
+10305,S24_4048,Marta's Replicas Co.,Cambridge,USA,NA,Medium,1
+10314,S24_4048,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,10
+10325,S24_4048,Baane Mini Imports,Stavern,Norway,EMEA,Medium,5
+10336,S24_4048,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,5
+10349,S24_4048,Muscle Machine Inc,NYC,USA,NA,Medium,2
+10359,S24_4048,Reims Collectables,Reims,France,EMEA,Small,7
+10371,S24_4048,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,9
+10383,S24_4048,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10394,S24_4048,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,7
+10412,S24_4048,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10103,S24_4258,Baane Mini Imports,Stavern,Norway,EMEA,Small,15
+10111,S24_4258,Mini Wheels Co.,San Francisco,USA,NA,Small,3
+10126,S24_4258,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,15
+10139,S24_4258,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,4
+10149,S24_4258,Signal Collectibles Ltd.,Brisbane,USA,NA,Small,1
+10163,S24_4258,Classic Legends Inc.,NYC,USA,NA,Medium,5
+10173,S24_4258,Rovelli Gifts,Bergamo,Italy,EMEA,Small,3
+10183,S24_4258,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Medium,12
+10193,S24_4258,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,4
+10206,S24_4258,Canadian Gift Exchange Network,Vancouver,Canada,NA,Medium,10
+10215,S24_4258,West Coast Collectables Co.,Burbank,USA,NA,Medium,7
+10228,S24_4258,Cambridge Collectables Co.,Cambridge,USA,NA,Medium,6
+10244,S24_4258,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10257,S24_4258,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,4
+10269,S24_4258,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,2
+10280,S24_4258,Amica Models & Co.,Torino,Italy,EMEA,Small,6
+10290,S24_4258,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Medium,1
+10304,S24_4258,Auto Assoc. & Cie.,Versailles,France,EMEA,Medium,10
+10312,S24_4258,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,7
+10324,S24_4258,Vitachrome Inc.,NYC,USA,NA,Medium,3
+10333,S24_4258,Mini Wheels Co.,San Francisco,USA,NA,Medium,1
+10348,S24_4258,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,2
+10358,S24_4258,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,6
+10369,S24_4258,Collectables For Less Inc.,Brickhaven,USA,NA,Medium,3
+10382,S24_4258,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,4
+10423,S24_4258,Petit Auto,Bruxelles,Belgium,EMEA,Small,4
+10106,S24_4278,Rovelli Gifts,Bergamo,Italy,EMEA,Small,3
+10120,S24_4278,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,9
+10133,S24_4278,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10145,S24_4278,Toys4GrownUps.com,Pasadena,USA,NA,Small,15
+10168,S24_4278,Technics Stores Inc.,Burlingame,USA,NA,Medium,10
+10210,S24_4278,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,8
+10223,S24_4278,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,10
+10235,S24_4278,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Medium,4
+10250,S24_4278,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,5
+10263,S24_4278,Gift Depot Inc.,Bridgewater,USA,NA,Small,11
+10275,S24_4278,La Rochelle Gifts,Nantes,France,EMEA,Small,10
+10284,S24_4278,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,2
+10297,S24_4278,"Clover Collections, Co.",Dublin,Ireland,EMEA,Small,5
+10308,S24_4278,Mini Classics,White Plains,USA,NA,Medium,8
+10317,S24_4278,Technics Stores Inc.,Burlingame,USA,NA,Small,1
+10328,S24_4278,Rovelli Gifts,Bergamo,Italy,EMEA,Small,4
+10340,S24_4278,Enaco Distributors,Barcelona,Spain,EMEA,Medium,1
+10353,S24_4278,Gift Ideas Corp.,Glendale,USA,NA,Medium,3
+10361,S24_4278,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,1
+10375,S24_4278,La Rochelle Gifts,Nantes,France,EMEA,Large,2
+10386,S24_4278,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,8
+10398,S24_4278,Reims Collectables,Reims,France,EMEA,Medium,14
+10401,S24_4278,Tekni Collectables Inc.,Newark,USA,NA,Medium,4
+10416,S24_4278,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,5
+10108,S24_4620,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,10
+10122,S24_4620,Marseille Mini Autos,Marseille,France,EMEA,Small,14
+10135,S24_4620,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,11
+10147,S24_4620,Collectables For Less Inc.,Brickhaven,USA,NA,Small,11
+10159,S24_4620,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,6
+10169,S24_4620,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,6
+10180,S24_4620,Daedalus Designs Imports,Lille,France,EMEA,Small,1
+10191,S24_4620,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Small,7
+10211,S24_4620,Auto Canal Petit,Paris,France,EMEA,Small,6
+10225,S24_4620,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,13
+10238,S24_4620,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,7
+10252,S24_4620,Auto Canal Petit,Paris,France,EMEA,Medium,3
+10264,S24_4620,Gifts4AllAges.com,Boston,USA,NA,Medium,1
+10276,S24_4620,Online Mini Collectables,Brickhaven,USA,NA,Medium,7
+10287,S24_4620,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Medium,16
+10299,S24_4620,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,1
+10310,S24_4620,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Medium,14
+10319,S24_4620,Microscale Inc.,NYC,USA,NA,Medium,2
+10331,S24_4620,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,2
+10343,S24_4620,Reims Collectables,Reims,France,EMEA,Medium,1
+10355,S24_4620,Euro Shopping Channel,Madrid,Spain,EMEA,Small,9
+10363,S24_4620,Suominen Souveniers,Espoo,Finland,EMEA,Medium,9
+10378,S24_4620,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10390,S24_4620,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,10
+10103,S32_1268,Baane Mini Imports,Stavern,Norway,EMEA,Medium,3
+10114,S32_1268,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,7
+10126,S32_1268,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,3
+10140,S32_1268,Technics Stores Inc.,Burlingame,USA,NA,Small,3
+10151,S32_1268,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,10
+10164,S32_1268,Mini Auto Werke,Graz,Austria,EMEA,Small,1
+10175,S32_1268,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,8
+10184,S32_1268,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Medium,13
+10194,S32_1268,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,3
+10207,S32_1268,Diecast Collectables,Boston,USA,NA,Medium,14
+10217,S32_1268,Handji Gifts& Co,Singapore,Singapore,APAC,Small,3
+10229,S32_1268,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,8
+10245,S32_1268,Super Scale Inc.,New Haven,USA,NA,Medium,1
+10259,S32_1268,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,11
+10270,S32_1268,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,1
+10281,S32_1268,Diecast Classics Inc.,Allentown,USA,NA,Small,8
+10291,S32_1268,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,3
+10305,S32_1268,Marta's Replicas Co.,Cambridge,USA,NA,Medium,12
+10313,S32_1268,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,6
+10324,S32_1268,Vitachrome Inc.,NYC,USA,NA,Small,11
+10335,S32_1268,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,1
+10348,S32_1268,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,3
+10358,S32_1268,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10371,S32_1268,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,1
+10382,S32_1268,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,6
+10411,S32_1268,Quebec Home Shopping Network,Montreal,Canada,NA,Small,1
+10425,S32_1268,La Rochelle Gifts,Nantes,France,EMEA,Medium,11
+10107,S32_1374,Land of Toys Inc.,NYC,USA,NA,Small,8
+10120,S32_1374,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,6
+10133,S32_1374,Euro Shopping Channel,Madrid,Spain,EMEA,Small,1
+10145,S32_1374,Toys4GrownUps.com,Pasadena,USA,NA,Medium,12
+10168,S32_1374,Technics Stores Inc.,Burlingame,USA,NA,Medium,7
+10188,S32_1374,Herkku Gifts,Bergen,Norway,EMEA,Medium,7
+10210,S32_1374,Osaka Souveniers Co.,Osaka,Japan,Japan,Medium,5
+10223,S32_1374,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,7
+10235,S32_1374,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Medium,1
+10250,S32_1374,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,2
+10263,S32_1374,Gift Depot Inc.,Bridgewater,USA,NA,Small,8
+10275,S32_1374,La Rochelle Gifts,Nantes,France,EMEA,Small,7
+10285,S32_1374,Marta's Replicas Co.,Cambridge,USA,NA,Medium,12
+10297,S32_1374,"Clover Collections, Co.",Dublin,Ireland,EMEA,Small,2
+10308,S32_1374,Mini Classics,White Plains,USA,NA,Small,5
+10318,S32_1374,Diecast Classics Inc.,Allentown,USA,NA,Medium,7
+10329,S32_1374,Land of Toys Inc.,NYC,USA,NA,Small,11
+10340,S32_1374,Enaco Distributors,Barcelona,Spain,EMEA,Medium,2
+10353,S32_1374,Gift Ideas Corp.,Glendale,USA,NA,Medium,5
+10363,S32_1374,Suominen Souveniers,Espoo,Finland,EMEA,Medium,2
+10375,S32_1374,La Rochelle Gifts,Nantes,France,EMEA,Medium,3
+10387,S32_1374,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,1
+10401,S32_1374,Tekni Collectables Inc.,Newark,USA,NA,Medium,1
+10416,S32_1374,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,2
+10108,S32_2206,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,13
+10122,S32_2206,Marseille Mini Autos,Marseille,France,EMEA,Small,17
+10135,S32_2206,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,14
+10145,S32_2206,Toys4GrownUps.com,Pasadena,USA,NA,Small,1
+10159,S32_2206,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,9
+10169,S32_2206,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Small,9
+10180,S32_2206,Daedalus Designs Imports,Lille,France,EMEA,Small,4
+10190,S32_2206,Euro Shopping Channel,Madrid,Spain,EMEA,Small,1
+10211,S32_2206,Auto Canal Petit,Paris,France,EMEA,Small,9
+10224,S32_2206,Daedalus Designs Imports,Lille,France,EMEA,Small,2
+10237,S32_2206,Vitachrome Inc.,NYC,USA,NA,Small,2
+10252,S32_2206,Auto Canal Petit,Paris,France,EMEA,Small,6
+10264,S32_2206,Gifts4AllAges.com,Boston,USA,NA,Small,4
+10276,S32_2206,Online Mini Collectables,Brickhaven,USA,NA,Small,10
+10285,S32_2206,Marta's Replicas Co.,Cambridge,USA,NA,Small,1
+10299,S32_2206,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,4
+10310,S32_2206,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Small,17
+10319,S32_2206,Microscale Inc.,NYC,USA,NA,Small,5
+10331,S32_2206,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,3
+10343,S32_2206,Reims Collectables,Reims,France,EMEA,Medium,5
+10355,S32_2206,Euro Shopping Channel,Madrid,Spain,EMEA,Small,10
+10364,S32_2206,Marseille Mini Autos,Marseille,France,EMEA,Small,1
+10378,S32_2206,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10390,S32_2206,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,11
+10403,S32_2206,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,2
+10104,S32_2509,Euro Shopping Channel,Madrid,Spain,EMEA,Small,11
+10114,S32_2509,"La Corne D'abondance, Co.",Paris,France,EMEA,Small,2
+10127,S32_2509,Muscle Machine Inc,NYC,USA,NA,Small,13
+10141,S32_2509,Suominen Souveniers,Espoo,Finland,EMEA,Small,7
+10151,S32_2509,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,5
+10165,S32_2509,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,14
+10175,S32_2509,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,3
+10184,S32_2509,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Small,8
+10195,S32_2509,Mini Classics,White Plains,USA,NA,Small,8
+10207,S32_2509,Diecast Collectables,Boston,USA,NA,Small,9
+10219,S32_2509,Signal Collectibles Ltd.,Brisbane,USA,NA,Small,4
+10229,S32_2509,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,3
+10246,S32_2509,Euro Shopping Channel,Madrid,Spain,EMEA,Small,7
+10259,S32_2509,Handji Gifts& Co,Singapore,Singapore,APAC,Small,6
+10271,S32_2509,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,7
+10281,S32_2509,Diecast Classics Inc.,Allentown,USA,NA,Small,3
+10292,S32_2509,Land of Toys Inc.,NYC,USA,NA,Small,10
+10305,S32_2509,Marta's Replicas Co.,Cambridge,USA,NA,Small,7
+10313,S32_2509,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,1
+10325,S32_2509,Baane Mini Imports,Stavern,Norway,EMEA,Large,3
+10335,S32_2509,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,3
+10349,S32_2509,Muscle Machine Inc,NYC,USA,NA,Small,1
+10359,S32_2509,Reims Collectables,Reims,France,EMEA,Medium,3
+10371,S32_2509,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,2
+10383,S32_2509,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10394,S32_2509,Euro Shopping Channel,Madrid,Spain,EMEA,Small,3
+10412,S32_2509,Euro Shopping Channel,Madrid,Spain,EMEA,Small,7
+10425,S32_2509,La Rochelle Gifts,Nantes,France,EMEA,Small,6
+10104,S32_3207,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10116,S32_3207,Royale Belge,Charleroi,Belgium,EMEA,Small,1
+10127,S32_3207,Muscle Machine Inc,NYC,USA,NA,Small,6
+10142,S32_3207,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,16
+10152,S32_3207,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Small,2
+10165,S32_3207,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,7
+10176,S32_3207,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,6
+10184,S32_3207,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Small,1
+10195,S32_3207,Mini Classics,White Plains,USA,NA,Small,1
+10207,S32_3207,Diecast Collectables,Boston,USA,NA,Small,2
+10220,S32_3207,"Clover Collections, Co.",Dublin,Ireland,EMEA,Small,6
+10230,S32_3207,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Small,4
+10247,S32_3207,Suominen Souveniers,Espoo,Finland,EMEA,Small,6
+10272,S32_3207,Diecast Classics Inc.,Allentown,USA,NA,Small,6
+10282,S32_3207,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,9
+10292,S32_3207,Land of Toys Inc.,NYC,USA,NA,Small,3
+10306,S32_3207,"AV Stores, Co.",Manchester,UK,EMEA,Small,17
+10314,S32_3207,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,9
+10325,S32_3207,Baane Mini Imports,Stavern,Norway,EMEA,Medium,2
+10336,S32_3207,"La Corne D'abondance, Co.",Paris,France,EMEA,Small,9
+10350,S32_3207,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,14
+10359,S32_3207,Reims Collectables,Reims,France,EMEA,Medium,1
+10371,S32_3207,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,11
+10383,S32_3207,Euro Shopping Channel,Madrid,Spain,EMEA,Small,8
+10394,S32_3207,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10413,S32_3207,Gift Depot Inc.,Bridgewater,USA,NA,Small,6
+10103,S32_3522,Baane Mini Imports,Stavern,Norway,EMEA,Medium,7
+10113,S32_3522,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,1
+10126,S32_3522,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,7
+10140,S32_3522,Technics Stores Inc.,Burlingame,USA,NA,Small,7
+10150,S32_3522,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,4
+10164,S32_3522,Mini Auto Werke,Graz,Austria,EMEA,Small,5
+10175,S32_3522,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,12
+10183,S32_3522,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Medium,4
+10194,S32_3522,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,7
+10206,S32_3522,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,2
+10217,S32_3522,Handji Gifts& Co,Singapore,Singapore,APAC,Small,7
+10229,S32_3522,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,12
+10245,S32_3522,Super Scale Inc.,New Haven,USA,NA,Medium,5
+10258,S32_3522,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,2
+10270,S32_3522,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,5
+10281,S32_3522,Diecast Classics Inc.,Allentown,USA,NA,Small,12
+10291,S32_3522,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,7
+10304,S32_3522,Auto Assoc. & Cie.,Versailles,France,EMEA,Small,2
+10313,S32_3522,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,10
+10324,S32_3522,Vitachrome Inc.,NYC,USA,NA,Large,4
+10333,S32_3522,Mini Wheels Co.,San Francisco,USA,NA,Small,4
+10348,S32_3522,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,5
+10358,S32_3522,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10370,S32_3522,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,3
+10382,S32_3522,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,8
+10411,S32_3522,Quebec Home Shopping Network,Montreal,Canada,NA,Small,5
+10424,S32_3522,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10106,S32_4289,Rovelli Gifts,Bergamo,Italy,EMEA,Small,5
+10120,S32_4289,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,11
+10133,S32_4289,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10144,S32_4289,Royale Belge,Charleroi,Belgium,EMEA,Small,1
+10168,S32_4289,Technics Stores Inc.,Burlingame,USA,NA,Small,12
+10210,S32_4289,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,10
+10223,S32_4289,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,12
+10235,S32_4289,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,6
+10250,S32_4289,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,7
+10262,S32_4289,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10275,S32_4289,La Rochelle Gifts,Nantes,France,EMEA,Small,12
+10284,S32_4289,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Medium,4
+10297,S32_4289,"Clover Collections, Co.",Dublin,Ireland,EMEA,Small,7
+10308,S32_4289,Mini Classics,White Plains,USA,NA,Medium,10
+10316,S32_4289,giftsbymail.co.uk,Cowes,UK,EMEA,Small,2
+10328,S32_4289,Rovelli Gifts,Bergamo,Italy,EMEA,Small,5
+10340,S32_4289,Enaco Distributors,Barcelona,Spain,EMEA,Small,3
+10353,S32_4289,Gift Ideas Corp.,Glendale,USA,NA,Small,7
+10361,S32_4289,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,2
+10375,S32_4289,La Rochelle Gifts,Nantes,France,EMEA,Medium,4
+10388,S32_4289,FunGiftIdeas.com,New Bedford,USA,NA,Medium,8
+10398,S32_4289,Reims Collectables,Reims,France,EMEA,Small,4
+10401,S32_4289,Tekni Collectables Inc.,Newark,USA,NA,Medium,6
+10416,S32_4289,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,7
+10108,S32_4485,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,16
+10121,S32_4485,Reims Collectables,Reims,France,EMEA,Small,3
+10135,S32_4485,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,17
+10145,S32_4485,Toys4GrownUps.com,Pasadena,USA,NA,Medium,4
+10159,S32_4485,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,12
+10169,S32_4485,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,12
+10180,S32_4485,Daedalus Designs Imports,Lille,France,EMEA,Small,7
+10190,S32_4485,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10211,S32_4485,Auto Canal Petit,Paris,France,EMEA,Medium,12
+10224,S32_4485,Daedalus Designs Imports,Lille,France,EMEA,Medium,5
+10237,S32_4485,Vitachrome Inc.,NYC,USA,NA,Medium,5
+10252,S32_4485,Auto Canal Petit,Paris,France,EMEA,Small,9
+10264,S32_4485,Gifts4AllAges.com,Boston,USA,NA,Medium,7
+10276,S32_4485,Online Mini Collectables,Brickhaven,USA,NA,Medium,13
+10285,S32_4485,Marta's Replicas Co.,Cambridge,USA,NA,Small,4
+10299,S32_4485,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,7
+10309,S32_4485,Baane Mini Imports,Stavern,Norway,EMEA,Medium,3
+10319,S32_4485,Microscale Inc.,NYC,USA,NA,Small,8
+10331,S32_4485,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,4
+10341,S32_4485,Salzburg Collectables,Salzburg,Austria,EMEA,Small,4
+10355,S32_4485,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,5
+10365,S32_4485,Mini Creations Ltd.,New Bedford,USA,NA,Medium,3
+10375,S32_4485,La Rochelle Gifts,Nantes,France,EMEA,Medium,15
+10390,S32_4485,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,12
+10403,S32_4485,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Medium,5
+10106,S50_1341,Rovelli Gifts,Bergamo,Italy,EMEA,Small,6
+10120,S50_1341,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,12
+10133,S50_1341,Euro Shopping Channel,Madrid,Spain,EMEA,Small,7
+10143,S50_1341,Mini Creations Ltd.,New Bedford,USA,NA,Small,1
+10156,S50_1341,Euro Shopping Channel,Madrid,Spain,EMEA,Small,1
+10168,S50_1341,Technics Stores Inc.,Burlingame,USA,NA,Small,13
+10199,S50_1341,West Coast Collectables Co.,Burbank,USA,NA,Small,1
+10210,S50_1341,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,11
+10223,S50_1341,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,13
+10235,S50_1341,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,7
+10250,S50_1341,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,8
+10262,S50_1341,Euro Shopping Channel,Madrid,Spain,EMEA,Small,3
+10275,S50_1341,La Rochelle Gifts,Nantes,France,EMEA,Small,13
+10284,S50_1341,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,5
+10296,S50_1341,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Small,1
+10308,S50_1341,Mini Classics,White Plains,USA,NA,Small,11
+10316,S50_1341,giftsbymail.co.uk,Cowes,UK,EMEA,Small,3
+10328,S50_1341,Rovelli Gifts,Bergamo,Italy,EMEA,Small,7
+10340,S50_1341,Enaco Distributors,Barcelona,Spain,EMEA,Small,4
+10353,S50_1341,Gift Ideas Corp.,Glendale,USA,NA,Medium,8
+10361,S50_1341,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,3
+10375,S50_1341,La Rochelle Gifts,Nantes,France,EMEA,Medium,5
+10388,S50_1341,FunGiftIdeas.com,New Bedford,USA,NA,Medium,1
+10398,S50_1341,Reims Collectables,Reims,France,EMEA,Small,5
+10401,S50_1341,Tekni Collectables Inc.,Newark,USA,NA,Small,7
+10416,S50_1341,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,8
+10104,S50_1392,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,7
+10115,S50_1392,Classic Legends Inc.,NYC,USA,NA,Small,3
+10127,S50_1392,Muscle Machine Inc,NYC,USA,NA,Medium,9
+10141,S50_1392,Suominen Souveniers,Espoo,Finland,EMEA,Medium,3
+10151,S50_1392,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,1
+10165,S50_1392,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,10
+10176,S50_1392,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,9
+10184,S50_1392,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Medium,4
+10195,S50_1392,Mini Classics,White Plains,USA,NA,Medium,4
+10207,S50_1392,Diecast Collectables,Boston,USA,NA,Small,5
+10220,S50_1392,"Clover Collections, Co.",Dublin,Ireland,EMEA,Medium,9
+10230,S50_1392,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Medium,7
+10246,S50_1392,Euro Shopping Channel,Madrid,Spain,EMEA,Small,3
+10259,S50_1392,Handji Gifts& Co,Singapore,Singapore,APAC,Medium,2
+10271,S50_1392,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,3
+10282,S50_1392,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,12
+10292,S50_1392,Land of Toys Inc.,NYC,USA,NA,Medium,6
+10305,S50_1392,Marta's Replicas Co.,Cambridge,USA,NA,Medium,3
+10314,S50_1392,Heintze Collectables,Aaarhus,Denmark,EMEA,Medium,12
+10325,S50_1392,Baane Mini Imports,Stavern,Norway,EMEA,Medium,4
+10336,S50_1392,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,8
+10350,S50_1392,Euro Shopping Channel,Madrid,Spain,EMEA,Small,8
+10359,S50_1392,Reims Collectables,Reims,France,EMEA,Medium,2
+10371,S50_1392,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,10
+10383,S50_1392,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,13
+10395,S50_1392,Lyon Souveniers,Paris,France,EMEA,Medium,4
+10412,S50_1392,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10425,S50_1392,La Rochelle Gifts,Nantes,France,EMEA,Small,2
+10104,S50_1514,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10117,S50_1514,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,11
+10127,S50_1514,Muscle Machine Inc,NYC,USA,NA,Medium,4
+10142,S50_1514,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,14
+10153,S50_1514,Euro Shopping Channel,Madrid,Spain,EMEA,Small,13
+10165,S50_1514,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,5
+10176,S50_1514,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,4
+10185,S50_1514,Mini Creations Ltd.,New Bedford,USA,NA,Small,15
+10196,S50_1514,Super Scale Inc.,New Haven,USA,NA,Small,7
+10208,S50_1514,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,15
+10220,S50_1514,"Clover Collections, Co.",Dublin,Ireland,EMEA,Small,4
+10230,S50_1514,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Small,2
+10247,S50_1514,Suominen Souveniers,Espoo,Finland,EMEA,Medium,4
+10272,S50_1514,Diecast Classics Inc.,Allentown,USA,NA,Small,4
+10282,S50_1514,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,7
+10292,S50_1514,Land of Toys Inc.,NYC,USA,NA,Small,1
+10306,S50_1514,"AV Stores, Co.",Manchester,UK,EMEA,Small,15
+10314,S50_1514,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,7
+10325,S50_1514,Baane Mini Imports,Stavern,Norway,EMEA,Medium,7
+10337,S50_1514,Classic Legends Inc.,NYC,USA,NA,Small,6
+10350,S50_1514,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,17
+10359,S50_1514,Reims Collectables,Reims,France,EMEA,Small,4
+10372,S50_1514,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,9
+10383,S50_1514,Euro Shopping Channel,Madrid,Spain,EMEA,Small,10
+10395,S50_1514,Lyon Souveniers,Paris,France,EMEA,Large,3
+10413,S50_1514,Gift Depot Inc.,Bridgewater,USA,NA,Medium,4
+10108,S50_4713,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,14
+10121,S50_4713,Reims Collectables,Reims,France,EMEA,Medium,1
+10135,S50_4713,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,15
+10145,S50_4713,Toys4GrownUps.com,Pasadena,USA,NA,Medium,2
+10159,S50_4713,Corporate Gift Ideas Co.,San Francisco,USA,NA,Small,10
+10169,S50_4713,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,Medium,10
+10180,S50_4713,Daedalus Designs Imports,Lille,France,EMEA,Small,5
+10190,S50_4713,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10211,S50_4713,Auto Canal Petit,Paris,France,EMEA,Medium,10
+10224,S50_4713,Daedalus Designs Imports,Lille,France,EMEA,Medium,3
+10237,S50_4713,Vitachrome Inc.,NYC,USA,NA,Small,3
+10252,S50_4713,Auto Canal Petit,Paris,France,EMEA,Medium,7
+10264,S50_4713,Gifts4AllAges.com,Boston,USA,NA,Medium,5
+10276,S50_4713,Online Mini Collectables,Brickhaven,USA,NA,Small,11
+10285,S50_4713,Marta's Replicas Co.,Cambridge,USA,NA,Medium,2
+10299,S50_4713,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,5
+10309,S50_4713,Baane Mini Imports,Stavern,Norway,EMEA,Small,1
+10319,S50_4713,Microscale Inc.,NYC,USA,NA,Medium,6
+10331,S50_4713,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Medium,5
+10341,S50_4713,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,3
+10356,S50_4713,Lyon Souveniers,Paris,France,EMEA,Medium,4
+10365,S50_4713,Mini Creations Ltd.,New Bedford,USA,NA,Medium,2
+10375,S50_4713,La Rochelle Gifts,Nantes,France,EMEA,Medium,8
+10390,S50_4713,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,13
+10403,S50_4713,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Small,3
+10105,S700_1138,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,5
+10119,S700_1138,Salzburg Collectables,Salzburg,Austria,EMEA,Small,14
+10129,S700_1138,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,5
+10142,S700_1138,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,2
+10153,S700_1138,Euro Shopping Channel,Madrid,Spain,EMEA,Small,1
+10167,S700_1138,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,12
+10177,S700_1138,CAF Imports,Madrid,Spain,EMEA,Small,3
+10185,S700_1138,Mini Creations Ltd.,New Bedford,USA,NA,Small,3
+10197,S700_1138,Enaco Distributors,Barcelona,Spain,EMEA,Small,9
+10208,S700_1138,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,3
+10222,S700_1138,Collectable Mini Designs Co.,San Diego,USA,NA,Small,15
+10233,S700_1138,Tekni Collectables Inc.,Newark,USA,NA,Small,3
+10248,S700_1138,Land of Toys Inc.,NYC,USA,NA,Small,6
+10261,S700_1138,Quebec Home Shopping Network,Montreal,Canada,NA,Small,4
+10273,S700_1138,Petit Auto,Bruxelles,Belgium,EMEA,Small,7
+10283,S700_1138,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Medium,9
+10295,S700_1138,Gifts4AllAges.com,Boston,USA,NA,Small,4
+10306,S700_1138,"AV Stores, Co.",Manchester,UK,EMEA,Small,3
+10315,S700_1138,La Rochelle Gifts,Nantes,France,EMEA,Small,2
+10326,S700_1138,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Small,1
+10339,S700_1138,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,5
+10350,S700_1138,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,11
+10373,S700_1138,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,14
+10385,S700_1138,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,1
+10396,S700_1138,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,1
+10414,S700_1138,Gifts4AllAges.com,Boston,USA,NA,Small,6
+10106,S700_1691,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,7
+10120,S700_1691,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,13
+10133,S700_1691,Euro Shopping Channel,Madrid,Spain,EMEA,Small,8
+10143,S700_1691,Mini Creations Ltd.,New Bedford,USA,NA,Medium,2
+10156,S700_1691,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10168,S700_1691,Technics Stores Inc.,Burlingame,USA,NA,Small,14
+10199,S700_1691,West Coast Collectables Co.,Burbank,USA,NA,Medium,2
+10210,S700_1691,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,12
+10223,S700_1691,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,14
+10235,S700_1691,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,8
+10250,S700_1691,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,9
+10262,S700_1691,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10275,S700_1691,La Rochelle Gifts,Nantes,France,EMEA,Small,14
+10284,S700_1691,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,6
+10296,S700_1691,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Medium,2
+10308,S700_1691,Mini Classics,White Plains,USA,NA,Small,12
+10316,S700_1691,giftsbymail.co.uk,Cowes,UK,EMEA,Small,4
+10328,S700_1691,Rovelli Gifts,Bergamo,Italy,EMEA,Small,8
+10340,S700_1691,Enaco Distributors,Barcelona,Spain,EMEA,Small,5
+10353,S700_1691,Gift Ideas Corp.,Glendale,USA,NA,Medium,9
+10361,S700_1691,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,4
+10375,S700_1691,La Rochelle Gifts,Nantes,France,EMEA,Medium,6
+10388,S700_1691,FunGiftIdeas.com,New Bedford,USA,NA,Large,2
+10398,S700_1691,Reims Collectables,Reims,France,EMEA,Medium,6
+10401,S700_1691,Tekni Collectables Inc.,Newark,USA,NA,Small,8
+10416,S700_1691,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,9
+10105,S700_1938,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,12
+10117,S700_1938,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,6
+10128,S700_1938,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10142,S700_1938,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,9
+10153,S700_1938,Euro Shopping Channel,Madrid,Spain,EMEA,Small,8
+10166,S700_1938,FunGiftIdeas.com,New Bedford,USA,NA,Medium,3
+10177,S700_1938,CAF Imports,Madrid,Spain,EMEA,Small,10
+10185,S700_1938,Mini Creations Ltd.,New Bedford,USA,NA,Small,10
+10196,S700_1938,Super Scale Inc.,New Haven,USA,NA,Medium,2
+10208,S700_1938,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,10
+10221,S700_1938,Petit Auto,Bruxelles,Belgium,EMEA,Small,4
+10232,S700_1938,giftsbymail.co.uk,Cowes,UK,EMEA,Small,7
+10248,S700_1938,Land of Toys Inc.,NYC,USA,NA,Medium,13
+10273,S700_1938,Petit Auto,Bruxelles,Belgium,EMEA,Small,14
+10282,S700_1938,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,2
+10293,S700_1938,Amica Models & Co.,Torino,Italy,EMEA,Small,5
+10306,S700_1938,"AV Stores, Co.",Manchester,UK,EMEA,Medium,10
+10314,S700_1938,Heintze Collectables,Aaarhus,Denmark,EMEA,Small,2
+10327,S700_1938,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,7
+10337,S700_1938,Classic Legends Inc.,NYC,USA,NA,Small,9
+10350,S700_1938,Euro Shopping Channel,Madrid,Spain,EMEA,Small,4
+10372,S700_1938,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,2
+10384,S700_1938,Corporate Gift Ideas Co.,San Francisco,USA,NA,Medium,1
+10397,S700_1938,Alpha Cognac,Toulouse,France,EMEA,Small,5
+10414,S700_1938,Gifts4AllAges.com,Boston,USA,NA,Medium,13
+10106,S700_2047,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,16
+10119,S700_2047,Salzburg Collectables,Salzburg,Austria,EMEA,Small,7
+10131,S700_2047,Gift Ideas Corp.,Glendale,USA,NA,Small,8
+10143,S700_2047,Mini Creations Ltd.,New Bedford,USA,NA,Small,11
+10155,S700_2047,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,9
+10167,S700_2047,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,5
+10178,S700_2047,Alpha Cognac,Toulouse,France,EMEA,Medium,8
+10186,S700_2047,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Small,5
+10197,S700_2047,Enaco Distributors,Barcelona,Spain,EMEA,Small,2
+10209,S700_2047,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Small,4
+10222,S700_2047,Collectable Mini Designs Co.,San Diego,USA,NA,Small,8
+10249,S700_2047,Cambridge Collectables Co.,Cambridge,USA,NA,Medium,4
+10262,S700_2047,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,13
+10274,S700_2047,Collectables For Less Inc.,Brickhaven,USA,NA,Small,5
+10283,S700_2047,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,2
+10296,S700_2047,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Medium,11
+10307,S700_2047,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Medium,5
+10316,S700_2047,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,13
+10328,S700_2047,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,9
+10339,S700_2047,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,15
+10352,S700_2047,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Small,3
+10361,S700_2047,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,14
+10373,S700_2047,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,15
+10386,S700_2047,Euro Shopping Channel,Madrid,Spain,EMEA,Small,13
+10398,S700_2047,Reims Collectables,Reims,France,EMEA,Medium,7
+10400,S700_2047,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,5
+10415,S700_2047,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Medium,4
+10106,S700_2466,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,9
+10120,S700_2466,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,15
+10131,S700_2466,Gift Ideas Corp.,Glendale,USA,NA,Medium,1
+10143,S700_2466,Mini Creations Ltd.,New Bedford,USA,NA,Small,4
+10155,S700_2466,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,2
+10168,S700_2466,Technics Stores Inc.,Burlingame,USA,NA,Medium,16
+10178,S700_2466,Alpha Cognac,Toulouse,France,EMEA,Small,1
+10198,S700_2466,Cruz & Sons Co.,Makati City,Philippines,Japan,Medium,1
+10210,S700_2466,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,14
+10222,S700_2466,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,1
+10235,S700_2466,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Medium,10
+10250,S700_2466,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,11
+10262,S700_2466,Euro Shopping Channel,Madrid,Spain,EMEA,Small,6
+10275,S700_2466,La Rochelle Gifts,Nantes,France,EMEA,Medium,16
+10284,S700_2466,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Medium,8
+10296,S700_2466,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Small,4
+10308,S700_2466,Mini Classics,White Plains,USA,NA,Medium,14
+10316,S700_2466,giftsbymail.co.uk,Cowes,UK,EMEA,Small,6
+10328,S700_2466,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,10
+10340,S700_2466,Enaco Distributors,Barcelona,Spain,EMEA,Medium,7
+10352,S700_2466,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Medium,2
+10361,S700_2466,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,9
+10375,S700_2466,La Rochelle Gifts,Nantes,France,EMEA,Medium,1
+10386,S700_2466,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,14
+10398,S700_2466,Reims Collectables,Reims,France,EMEA,Small,8
+10401,S700_2466,Tekni Collectables Inc.,Newark,USA,NA,Large,10
+10416,S700_2466,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,11
+10105,S700_2610,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,3
+10119,S700_2610,Salzburg Collectables,Salzburg,Austria,EMEA,Small,12
+10129,S700_2610,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,3
+10143,S700_2610,Mini Creations Ltd.,New Bedford,USA,NA,Small,16
+10154,S700_2610,Boards & Toys Co.,Glendale,USA,NA,Small,1
+10167,S700_2610,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,10
+10177,S700_2610,CAF Imports,Madrid,Spain,EMEA,Small,1
+10185,S700_2610,Mini Creations Ltd.,New Bedford,USA,NA,Small,1
+10197,S700_2610,Enaco Distributors,Barcelona,Spain,EMEA,Medium,7
+10208,S700_2610,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,1
+10222,S700_2610,Collectable Mini Designs Co.,San Diego,USA,NA,Small,13
+10233,S700_2610,Tekni Collectables Inc.,Newark,USA,NA,Small,1
+10248,S700_2610,Land of Toys Inc.,NYC,USA,NA,Small,4
+10261,S700_2610,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,2
+10273,S700_2610,Petit Auto,Bruxelles,Belgium,EMEA,Small,5
+10283,S700_2610,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Medium,7
+10295,S700_2610,Gifts4AllAges.com,Boston,USA,NA,Small,2
+10306,S700_2610,"AV Stores, Co.",Manchester,UK,EMEA,Medium,1
+10316,S700_2610,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,18
+10327,S700_2610,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,1
+10339,S700_2610,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,9
+10350,S700_2610,Euro Shopping Channel,Madrid,Spain,EMEA,Small,12
+10373,S700_2610,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,16
+10386,S700_2610,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,10
+10397,S700_2610,Alpha Cognac,Toulouse,France,EMEA,Small,4
+10414,S700_2610,Gifts4AllAges.com,Boston,USA,NA,Small,4
+10103,S700_2824,Baane Mini Imports,Stavern,Norway,EMEA,Medium,6
+10114,S700_2824,"La Corne D'abondance, Co.",Paris,France,EMEA,Medium,10
+10126,S700_2824,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Medium,6
+10140,S700_2824,Technics Stores Inc.,Burlingame,USA,NA,Medium,6
+10150,S700_2824,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,3
+10164,S700_2824,Mini Auto Werke,Graz,Austria,EMEA,Medium,4
+10175,S700_2824,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,11
+10183,S700_2824,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,3
+10194,S700_2824,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,6
+10206,S700_2824,Canadian Gift Exchange Network,Vancouver,Canada,NA,Medium,1
+10217,S700_2824,Handji Gifts& Co,Singapore,Singapore,APAC,Small,6
+10229,S700_2824,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,11
+10245,S700_2824,Super Scale Inc.,New Haven,USA,NA,Medium,4
+10258,S700_2824,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Medium,1
+10270,S700_2824,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,4
+10281,S700_2824,Diecast Classics Inc.,Allentown,USA,NA,Small,11
+10291,S700_2824,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,6
+10304,S700_2824,Auto Assoc. & Cie.,Versailles,France,EMEA,Medium,1
+10313,S700_2824,Canadian Gift Exchange Network,Vancouver,Canada,NA,Small,9
+10324,S700_2824,Vitachrome Inc.,NYC,USA,NA,Medium,5
+10336,S700_2824,"La Corne D'abondance, Co.",Paris,France,EMEA,Large,2
+10348,S700_2824,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Small,7
+10358,S700_2824,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,3
+10371,S700_2824,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,3
+10382,S700_2824,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,9
+10411,S700_2824,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,4
+10424,S700_2824,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,1
+10106,S700_2834,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,1
+10120,S700_2834,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,7
+10133,S700_2834,Euro Shopping Channel,Madrid,Spain,EMEA,Small,2
+10145,S700_2834,Toys4GrownUps.com,Pasadena,USA,NA,Small,13
+10168,S700_2834,Technics Stores Inc.,Burlingame,USA,NA,Medium,8
+10188,S700_2834,Herkku Gifts,Bergen,Norway,EMEA,Medium,8
+10210,S700_2834,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,6
+10223,S700_2834,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,8
+10235,S700_2834,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,2
+10250,S700_2834,The Sharp Gifts Warehouse,San Jose,USA,NA,Medium,3
+10263,S700_2834,Gift Depot Inc.,Bridgewater,USA,NA,Medium,9
+10275,S700_2834,La Rochelle Gifts,Nantes,France,EMEA,Medium,8
+10285,S700_2834,Marta's Replicas Co.,Cambridge,USA,NA,Medium,13
+10297,S700_2834,"Clover Collections, Co.",Dublin,Ireland,EMEA,Medium,3
+10308,S700_2834,Mini Classics,White Plains,USA,NA,Medium,6
+10318,S700_2834,Diecast Classics Inc.,Allentown,USA,NA,Large,8
+10328,S700_2834,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,11
+10340,S700_2834,Enaco Distributors,Barcelona,Spain,EMEA,Medium,6
+10353,S700_2834,Gift Ideas Corp.,Glendale,USA,NA,Medium,4
+10361,S700_2834,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,5
+10375,S700_2834,La Rochelle Gifts,Nantes,France,EMEA,Small,10
+10388,S700_2834,FunGiftIdeas.com,New Bedford,USA,NA,Large,3
+10398,S700_2834,Reims Collectables,Reims,France,EMEA,Small,9
+10401,S700_2834,Tekni Collectables Inc.,Newark,USA,NA,Small,2
+10416,S700_2834,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Medium,3
+10106,S700_3167,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,8
+10120,S700_3167,"Australian Collectors, Co.",Melbourne,Australia,APAC,Medium,14
+10143,S700_3167,Mini Creations Ltd.,New Bedford,USA,NA,Small,3
+10155,S700_3167,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,1
+10168,S700_3167,Technics Stores Inc.,Burlingame,USA,NA,Medium,15
+10199,S700_3167,West Coast Collectables Co.,Burbank,USA,NA,Medium,3
+10210,S700_3167,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,13
+10223,S700_3167,"Australian Collectors, Co.",Melbourne,Australia,APAC,Small,15
+10235,S700_3167,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,9
+10250,S700_3167,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,10
+10262,S700_3167,Euro Shopping Channel,Madrid,Spain,EMEA,Small,5
+10275,S700_3167,La Rochelle Gifts,Nantes,France,EMEA,Medium,15
+10284,S700_3167,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,7
+10296,S700_3167,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Small,3
+10308,S700_3167,Mini Classics,White Plains,USA,NA,Small,13
+10316,S700_3167,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,5
+10328,S700_3167,Rovelli Gifts,Bergamo,Italy,EMEA,Small,13
+10341,S700_3167,Salzburg Collectables,Salzburg,Austria,EMEA,Medium,5
+10353,S700_3167,Gift Ideas Corp.,Glendale,USA,NA,Medium,6
+10361,S700_3167,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,10
+10375,S700_3167,La Rochelle Gifts,Nantes,France,EMEA,Medium,11
+10386,S700_3167,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,17
+10398,S700_3167,Reims Collectables,Reims,France,EMEA,Small,10
+10401,S700_3167,Tekni Collectables Inc.,Newark,USA,NA,Large,9
+10416,S700_3167,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,10
+10105,S700_3505,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,6
+10118,S700_3505,Enaco Distributors,Barcelona,Spain,EMEA,Medium,1
+10129,S700_3505,"Stylish Desk Decors, Co.",London,UK,EMEA,Medium,6
+10142,S700_3505,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,3
+10153,S700_3505,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10167,S700_3505,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,13
+10177,S700_3505,CAF Imports,Madrid,Spain,EMEA,Medium,4
+10185,S700_3505,Mini Creations Ltd.,New Bedford,USA,NA,Medium,4
+10197,S700_3505,Enaco Distributors,Barcelona,Spain,EMEA,Small,10
+10208,S700_3505,"Saveley & Henriot, Co.",Lyon,France,EMEA,Medium,4
+10222,S700_3505,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,16
+10232,S700_3505,giftsbymail.co.uk,Cowes,UK,EMEA,Medium,1
+10248,S700_3505,Land of Toys Inc.,NYC,USA,NA,Medium,7
+10261,S700_3505,Quebec Home Shopping Network,Montreal,Canada,NA,Small,5
+10273,S700_3505,Petit Auto,Bruxelles,Belgium,EMEA,Medium,8
+10283,S700_3505,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,10
+10295,S700_3505,Gifts4AllAges.com,Boston,USA,NA,Medium,5
+10306,S700_3505,"AV Stores, Co.",Manchester,UK,EMEA,Small,4
+10315,S700_3505,La Rochelle Gifts,Nantes,France,EMEA,Small,3
+10327,S700_3505,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,2
+10337,S700_3505,Classic Legends Inc.,NYC,USA,NA,Small,1
+10350,S700_3505,Euro Shopping Channel,Madrid,Spain,EMEA,Small,13
+10373,S700_3505,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,2
+10386,S700_3505,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,2
+10397,S700_3505,Alpha Cognac,Toulouse,France,EMEA,Medium,3
+10414,S700_3505,Gifts4AllAges.com,Boston,USA,NA,Medium,7
+10105,S700_3962,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,7
+10117,S700_3962,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Medium,1
+10129,S700_3962,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,7
+10142,S700_3962,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Medium,4
+10153,S700_3962,Euro Shopping Channel,Madrid,Spain,EMEA,Small,3
+10167,S700_3962,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Medium,14
+10177,S700_3962,CAF Imports,Madrid,Spain,EMEA,Small,5
+10185,S700_3962,Mini Creations Ltd.,New Bedford,USA,NA,Small,5
+10197,S700_3962,Enaco Distributors,Barcelona,Spain,EMEA,Medium,11
+10208,S700_3962,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,5
+10222,S700_3962,Collectable Mini Designs Co.,San Diego,USA,NA,Small,17
+10232,S700_3962,giftsbymail.co.uk,Cowes,UK,EMEA,Small,2
+10248,S700_3962,Land of Toys Inc.,NYC,USA,NA,Medium,8
+10261,S700_3962,Quebec Home Shopping Network,Montreal,Canada,NA,Medium,6
+10273,S700_3962,Petit Auto,Bruxelles,Belgium,EMEA,Small,9
+10283,S700_3962,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Medium,11
+10294,S700_3962,Online Mini Collectables,Brickhaven,USA,NA,Medium,1
+10306,S700_3962,"AV Stores, Co.",Manchester,UK,EMEA,Medium,5
+10315,S700_3962,La Rochelle Gifts,Nantes,France,EMEA,Medium,4
+10327,S700_3962,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,3
+10337,S700_3962,Classic Legends Inc.,NYC,USA,NA,Small,7
+10350,S700_3962,Euro Shopping Channel,Madrid,Spain,EMEA,Small,16
+10373,S700_3962,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,8
+10386,S700_3962,Euro Shopping Channel,Madrid,Spain,EMEA,Small,3
+10397,S700_3962,Alpha Cognac,Toulouse,France,EMEA,Medium,2
+10414,S700_3962,Gifts4AllAges.com,Boston,USA,NA,Small,8
+10106,S700_4002,Rovelli Gifts,Bergamo,Italy,EMEA,Small,10
+10119,S700_4002,Salzburg Collectables,Salzburg,Austria,EMEA,Small,1
+10131,S700_4002,Gift Ideas Corp.,Glendale,USA,NA,Small,2
+10143,S700_4002,Mini Creations Ltd.,New Bedford,USA,NA,Small,5
+10155,S700_4002,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Medium,3
+10168,S700_4002,Technics Stores Inc.,Burlingame,USA,NA,Medium,17
+10178,S700_4002,Alpha Cognac,Toulouse,France,EMEA,Medium,2
+10198,S700_4002,Cruz & Sons Co.,Makati City,Philippines,Japan,Small,2
+10210,S700_4002,Osaka Souveniers Co.,Osaka,Japan,Japan,Small,15
+10222,S700_4002,Collectable Mini Designs Co.,San Diego,USA,NA,Medium,2
+10235,S700_4002,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,11
+10250,S700_4002,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,12
+10262,S700_4002,Euro Shopping Channel,Madrid,Spain,EMEA,Small,7
+10275,S700_4002,La Rochelle Gifts,Nantes,France,EMEA,Small,17
+10284,S700_4002,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Small,9
+10296,S700_4002,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Medium,5
+10308,S700_4002,Mini Classics,White Plains,USA,NA,Small,15
+10316,S700_4002,giftsbymail.co.uk,Cowes,UK,EMEA,Small,7
+10328,S700_4002,Rovelli Gifts,Bergamo,Italy,EMEA,Medium,12
+10339,S700_4002,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,8
+10352,S700_4002,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Small,1
+10361,S700_4002,Souveniers And Things Co.,Chatswood,Australia,APAC,Medium,11
+10373,S700_4002,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,17
+10386,S700_4002,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,15
+10398,S700_4002,Reims Collectables,Reims,France,EMEA,Medium,12
+10401,S700_4002,Tekni Collectables Inc.,Newark,USA,NA,Small,11
+10416,S700_4002,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Small,12
+10106,S72_1253,Rovelli Gifts,Bergamo,Italy,EMEA,Small,15
+10119,S72_1253,Salzburg Collectables,Salzburg,Austria,EMEA,Small,6
+10131,S72_1253,Gift Ideas Corp.,Glendale,USA,NA,Small,7
+10143,S72_1253,Mini Creations Ltd.,New Bedford,USA,NA,Small,10
+10155,S72_1253,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Small,8
+10167,S72_1253,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,4
+10178,S72_1253,Alpha Cognac,Toulouse,France,EMEA,Small,7
+10186,S72_1253,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Small,4
+10197,S72_1253,Enaco Distributors,Barcelona,Spain,EMEA,Small,1
+10209,S72_1253,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Small,3
+10222,S72_1253,Collectable Mini Designs Co.,San Diego,USA,NA,Small,7
+10249,S72_1253,Cambridge Collectables Co.,Cambridge,USA,NA,Small,3
+10262,S72_1253,Euro Shopping Channel,Madrid,Spain,EMEA,Small,12
+10274,S72_1253,Collectables For Less Inc.,Brickhaven,USA,NA,Small,4
+10283,S72_1253,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,1
+10296,S72_1253,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Small,10
+10307,S72_1253,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Small,4
+10316,S72_1253,giftsbymail.co.uk,Cowes,UK,EMEA,Small,12
+10329,S72_1253,Land of Toys Inc.,NYC,USA,NA,Medium,8
+10339,S72_1253,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Small,6
+10352,S72_1253,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Small,4
+10361,S72_1253,Souveniers And Things Co.,Chatswood,Australia,APAC,Small,12
+10373,S72_1253,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Small,9
+10386,S72_1253,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,16
+10398,S72_1253,Reims Collectables,Reims,France,EMEA,Small,1
+10400,S72_1253,The Sharp Gifts Warehouse,San Jose,USA,NA,Small,4
+10415,S72_1253,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Small,3
+10105,S72_3212,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Small,8
+10117,S72_3212,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Small,2
+10129,S72_3212,"Stylish Desk Decors, Co.",London,UK,EMEA,Small,8
+10142,S72_3212,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Small,5
+10153,S72_3212,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10167,S72_3212,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Small,15
+10177,S72_3212,CAF Imports,Madrid,Spain,EMEA,Small,6
+10185,S72_3212,Mini Creations Ltd.,New Bedford,USA,NA,Small,6
+10197,S72_3212,Enaco Distributors,Barcelona,Spain,EMEA,Small,12
+10208,S72_3212,"Saveley & Henriot, Co.",Lyon,France,EMEA,Small,6
+10222,S72_3212,Collectable Mini Designs Co.,San Diego,USA,NA,Small,18
+10232,S72_3212,giftsbymail.co.uk,Cowes,UK,EMEA,Small,3
+10248,S72_3212,Land of Toys Inc.,NYC,USA,NA,Small,9
+10261,S72_3212,Quebec Home Shopping Network,Montreal,Canada,NA,Small,7
+10273,S72_3212,Petit Auto,Bruxelles,Belgium,EMEA,Small,10
+10283,S72_3212,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Small,12
+10293,S72_3212,Amica Models & Co.,Torino,Italy,EMEA,Small,1
+10306,S72_3212,"AV Stores, Co.",Manchester,UK,EMEA,Small,6
+10315,S72_3212,La Rochelle Gifts,Nantes,France,EMEA,Small,5
+10327,S72_3212,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Medium,4
+10337,S72_3212,Classic Legends Inc.,NYC,USA,NA,Medium,5
+10350,S72_3212,Euro Shopping Channel,Madrid,Spain,EMEA,Small,15
+10373,S72_3212,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Medium,1
+10386,S72_3212,Euro Shopping Channel,Madrid,Spain,EMEA,Medium,4
+10397,S72_3212,Alpha Cognac,Toulouse,France,EMEA,Small,1
+10414,S72_3212,Gifts4AllAges.com,Boston,USA,NA,Medium,9
